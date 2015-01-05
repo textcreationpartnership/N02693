@@ -119,8 +119,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:003191_0000_0FF016DE90A323D8"/>
-            <pb facs="tcp:003191_0001_0FF0168321F14CF0"/>
+            <pb facs="unknown:003191_0000_0FF016DE90A323D8"/>
+            <pb facs="unknown:003191_0001_0FF0168321F14CF0"/>
             <p>
                <hi>Fruits of Retirement:</hi> OR <hi>Miſcellaneous POEMS,</hi> MORAL and DIVINE. BEING Some <hi>Contemplations, Letters,</hi> &amp;c. writ<g ref="char:EOLhyphen"/>ten on Variety of Subjects and Oc<g ref="char:EOLhyphen"/>caſions.</p>
             <p>By <hi>MARY MOLLINEUX,</hi> Late of <hi>Leverpool,</hi> Deceaſed.</p>
@@ -135,8 +135,9 @@
                <hi>PHILADELPHIA:</hi> Printed and Sold by <hi>Samuel Keimer,</hi> in the <hi>Second-Street,</hi> 1729.</p>
          </div>
          <div type="introduction">
-            <pb facs="tcp:003191_0002_0FF01684C9418D78" rendition="simple:additions"/>
-            <pb facs="tcp:003191_0002_0FF01684C9418D78"/>
+            <pb facs="unknown:003191_0002_0FF01684C9418D78"
+                rendition="simple:additions"/>
+            <pb facs="unknown:003191_0002_0FF01684C9418D78"/>
             <head>A Relation of ſome Paſſages, <hi>&amp;c.</hi>
             </head>
             <p>Which bears the Siguification following,</p>
@@ -170,7 +171,7 @@
                <l>On ſuch a potent, ſuch a conſtant Friend!</l>
             </q>
             <p>
-               <pb facs="tcp:003191_0003_0FF0168676B0FA00"/>
+               <pb facs="unknown:003191_0003_0FF0168676B0FA00"/>
 So ſhe depended upon the Lord, and he pre<g ref="char:EOLhyphen"/>ſerved her.</p>
             <p>In a Letter, Dated <hi>The 9th of the 12th Month,</hi> 1691. ſhe ſent to me in Priſon, theſe Lines, <hi>viz.</hi>
             </p>
@@ -205,7 +206,7 @@ So ſhe depended upon the Lord, and he pre<g ref="char:EOLhyphen"/>ſerved her.<
                </gap> writing of theſe, becauſe the Bearer ſtaid for the Let<g ref="char:EOLhyphen"/>ter, and that ſhe had not made any of ſuch Quantities for above Twenty Years before. They bear the Signification following, <hi>viz.</hi>
             </p>
             <q>
-               <pb facs="tcp:003191_0003_0FF0168676B0FA00"/>
+               <pb facs="unknown:003191_0003_0FF0168676B0FA00"/>
                <lg n="1">
                   <head>(1.)</head>
                   <l>The Lord, of them that hurt his Saints, doth ſay,</l>
@@ -249,7 +250,7 @@ So ſhe depended upon the Lord, and he pre<g ref="char:EOLhyphen"/>ſerved her.<
             </q>
          </div>
          <div type="to_the_reader">
-            <pb facs="tcp:003191_0004_0FF0168914C8C530"/>
+            <pb facs="unknown:003191_0004_0FF0168914C8C530"/>
             <head>TO THE READER.</head>
             <lg>
                <l>
@@ -322,27 +323,27 @@ So ſhe depended upon the Lord, and he pre<g ref="char:EOLhyphen"/>ſerved her.<
                <desc>〈1… pages missing〉</desc>
             </gap>
             <p>
-               <pb facs="tcp:003191_0004_0FF0168914C8C530"/>
+               <pb facs="unknown:003191_0004_0FF0168914C8C530"/>
                <hi>will give you Reſt; take my Yoke upon you, and learn of me, for I am meek and lowly in Heart, and ye ſhall find Reſt to your Souls; for my Yoke is eaſy, and my Burden is light:</hi> And bleſſed be the Eternal Goodneſs, I have witneſſed it to be ſo, in Compariſon of the Bondage of Cor<g ref="char:EOLhyphen"/>ruption. And I here inſert my Exerciſe, for the Encouragement of the Sincere-hearted, that all may depend upon the Lord, <note place="margin">Heb. 11.6.</note> who is a good <hi>Rewarder of thoſe who diligently ſeek him;</hi> and can give Teſtimony, according to their Meaſure, <note place="margin">Prov. 3.17.</note> that his <hi>Ways are Ways of Pleaſantneſs, and all his Paths are Peace;</hi> there<g ref="char:EOLhyphen"/>fore let thoſe, whoſe Feet are thither turned, hold on their Way, and perſevere in Righ<g ref="char:EOLhyphen"/>teouſneſs and Purity; that ſo they may grow ſtronger and ſtronger, and be able to lend a helping Hand to them who are weak; as this my dear Friend hath often done, both to me and others. And let all, who are yet ſeeking the Lord, and his Truth, be incou<g ref="char:EOLhyphen"/>raged in Faithfulneſs and Obedience to fol<g ref="char:EOLhyphen"/>low God's Requirings in their own Hearts; <note place="margin">Rom. 1.19.</note> 
                <hi>for that which may be known of God,</hi> is there manifeſt; <note place="margin">Eph. 5.13.</note> 
                <hi>and what<g ref="char:EOLhyphen"/>ſoever doth make manifeſt, is Light,</hi> (viz.) the Light of Jeſus, <hi>which enlighteneth eve<g ref="char:EOLhyphen"/>ry Man that comes into the World:</hi> This is that which truly diſcovers God to Man, and Man to himſelf; yea, the whole <hi>Myſtery of Godli<g ref="char:EOLhyphen"/>neſs.</hi>
-               <pb facs="tcp:003191_0005_0FF0168C1FAFCD18"/>Therefore let none tire in their Search after Truth, <note place="margin">Cal. 6.9.</note> nor be <hi>weary in well<g ref="char:EOLhyphen"/>doing, for they ſhall reap in due Sea<g ref="char:EOLhyphen"/>ſon,</hi> the Benefit thereof, <hi>if they faint not, but hold out unto the End;</hi> as did the Author of the enſuing Verſes: Of whom I am willing to give the Reader ſome Account.</p>
+               <pb facs="unknown:003191_0005_0FF0168C1FAFCD18"/>Therefore let none tire in their Search after Truth, <note place="margin">Cal. 6.9.</note> nor be <hi>weary in well<g ref="char:EOLhyphen"/>doing, for they ſhall reap in due Sea<g ref="char:EOLhyphen"/>ſon,</hi> the Benefit thereof, <hi>if they faint not, but hold out unto the End;</hi> as did the Author of the enſuing Verſes: Of whom I am willing to give the Reader ſome Account.</p>
             <p>She was one, who in her Childhood, was much afflicted with weak Eyes, which made her unfit for the uſual Employment of Girls; and being of a large natural Capacity, quick, witty, and ſtudiouſly inclined, her Father brought her up to more Learning, than is commonly beſtowed upon our Sex; in which ſhe became ſo good a Proficient, that ſhe well underſtood the <hi>Latin Tongue,</hi> fluently diſcour<g ref="char:EOLhyphen"/>ſed in it; and made a conſiderable Progreſs in <hi>Greek</hi> alſo; wrote ſeveral Hands well; was a good <hi>Arithmetician,</hi> 
                <note place="margin">Pſal. 90.11.</note> yea in the beſt Arithmetick; <hi>for ſhe ſo num<g ref="char:EOLhyphen"/>bered her Days, as to apply her Heart unto Wiſ<g ref="char:EOLhyphen"/>dom;</hi> as alſo to the Study of ſeveral uſeful Arts; had a good Underſtanding of Phyſick and Chirurgery, the Nature of Plants, Herbs, and Minerals; and made ſome Inſpection in<g ref="char:EOLhyphen"/>to divers profitable Sciences, delighting in the Study of Nature, and to admire the great God of Nature, in the various Operations of his Power and Goodneſs, the wonderful Har<g ref="char:EOLhyphen"/>mony and Order of the Creation, and the in<g ref="char:EOLhyphen"/>finite Wiſdom by which it is govern'd; of
-<pb facs="tcp:003191_0005_0FF0168C1FAFCD18"/>which ſhe would often ſpeak: Admiring <gap reason="illegible" resp="#PDCC" extent="1 letter">
+<pb facs="unknown:003191_0005_0FF0168C1FAFCD18"/>which ſhe would often ſpeak: Admiring <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>ow there could be an Atheiſt in the World; ſince the Creation doth ſo plainly aſſert the Being of a Deity. And as we have been walking or riding together, would o<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>ten diſcourſe of the preſent Objects, much tending to Edifi<g ref="char:EOLhyphen"/>cation; making many pretty Remarks, and comparing outward Things with inward: As alſo upon all Occaſions would draw ſuch uſeful Obſervations, as made her Com<g ref="char:EOLhyphen"/>pany profi<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>able and delighting: For ſhe was of a thoughtful compoſed Temper, yet of a quick Apprehenſion, and ingenious; which, being ſeaſoned with Truth, (in which ſhe had many ſweet Openings) theſe meeting in a Temper converſable, and concerned for the Good of others, made her Converſation Im<g ref="char:EOLhyphen"/>proving and deſirable. She was one who loved the Bleſſed Truth (and they who walk<g ref="char:EOLhyphen"/>ed according to it) from a Child, being ear<g ref="char:EOLhyphen"/>ly convinced thereof; tho' ſhe was not ſatis<g ref="char:EOLhyphen"/>fiyed with a bare Profeſſion of Religion, but zealous for the Life of it, both in her ſelf and others; alſo furniſhed with good Argu<g ref="char:EOLhyphen"/>ments to defend it, being ready to give an Anſwer to every one that asked <hi>a Reaſon of the Hope which was in her,</hi> with Meekneſs and Fear: Not forward to begin a Diſpute, yet ſound in what the undertook, and never (that I know of) foil'd in an Argument; for ſhe had an Eye to the Lord, and liked to be ſa<g ref="char:EOLhyphen"/>tisfied
-<pb facs="tcp:003191_0006_0FF0168F65A50DF0"/>that ſhe was in her Place, and called by him to what ſhe did for him: Would often mention the Paſſage of <hi>
+<pb facs="unknown:003191_0006_0FF0168F65A50DF0"/>that ſhe was in her Place, and called by him to what ſhe did for him: Would often mention the Paſſage of <hi>
                   <g ref="char:V">Ʋ</g>zza,</hi> 2 <hi>Sam.</hi> 6.6, 7. how Death was his Puniſhment, for putting forth his Hand to take hold of the Ark of God, when the Oxen ſhook it, being a Service not required of him.</p>
             <p>Nor was ſhe proud, or conceited of her Parts and Learning, but adorned with an humble Modeſty; having, I believe, meaner Thoughts of her ſelf, than any one elſe had of her, who knew her Qualifications.</p>
             <p>Plain and decent in her Cloaths, which ſhe valued for Service more than Sight; and ſlighted in Compariſon of thoſe better Or<g ref="char:EOLhyphen"/>naments of the Mind, which ſhe preferr'd above ſplendid or coſtly Apparel.</p>
             <p>She was one who loved to read the Holy Scriptures, and ſuch uſeful Authors, as had a Tendency to Improvement; in which ſhe ſpent much Time: God having furniſhed her with an extraordinary Memory, to retain the ſame.</p>
             <p>She delighted much in Solitude, and was often alone; ſetting apart ſome Time of the Day for Retirement; and would frequently ſay to me, in the Evenings, <hi>Let us go aſide, and wait upon the Lord; we have daily need of daily Bread, and to renew our Strength; and how can we expect it, if we do not wait for it?</hi> and would recite the Paſſage of <hi>Elijah,</hi> 1 Kings
-<pb facs="tcp:003191_0006_0FF0168F65A50DF0"/>18.36. that at the Time of the <hi>Evening Sa<g ref="char:EOLhyphen"/>crifice,</hi> the Lord anſwered by Fire; with o<g ref="char:EOLhyphen"/>ther pretty Remarks, too tedious to inſert, which ſhe abounded in, upon all Occaſions, to promote that which was good. In theſe Times of Retirement, Verſes would come up in her Mind, which ſhe after wrote: Ma<g ref="char:EOLhyphen"/>ny of theſe, herewith printed, being Medi<g ref="char:EOLhyphen"/>tations according to the Frame and Exerciſe of her Spirit, when thus compoſed.</p>
+<pb facs="unknown:003191_0006_0FF0168F65A50DF0"/>18.36. that at the Time of the <hi>Evening Sa<g ref="char:EOLhyphen"/>crifice,</hi> the Lord anſwered by Fire; with o<g ref="char:EOLhyphen"/>ther pretty Remarks, too tedious to inſert, which ſhe abounded in, upon all Occaſions, to promote that which was good. In theſe Times of Retirement, Verſes would come up in her Mind, which ſhe after wrote: Ma<g ref="char:EOLhyphen"/>ny of theſe, herewith printed, being Medi<g ref="char:EOLhyphen"/>tations according to the Frame and Exerciſe of her Spirit, when thus compoſed.</p>
             <p>Neither did ſhe neglect publick Opportu<g ref="char:EOLhyphen"/>nities to worſhip God; for ſhe was diligent in frequenting religious Meetings, not being <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>pt to omit any, unleſs upon extraordinary Occaſion. Nor did ſhe ſuffer her Eyes to vander, which the Mind too often accom<g ref="char:EOLhyphen"/>panies, but the Compoſedneſs of her Coun<g ref="char:EOLhyphen"/>
@@ -365,19 +366,19 @@ So ſhe depended upon the Lord, and he pre<g ref="char:EOLhyphen"/>ſerved her.<
                   <desc>•</desc>
                </gap>th the Lord, leaving a good Savour behind</p>
             <p>
-               <pb facs="tcp:003191_0007_0FF0169109570978"/>
+               <pb facs="unknown:003191_0007_0FF0169109570978"/>
 She was one who willingly and chearfully ſufferted for the Truth, encomaging others to do the like, both by Precept and Example: One juſt, honeſt, and true to her Word, tem<g ref="char:EOLhyphen"/>perate and ſelt-denying; keeping within the Limits preſcribed for Health, which ſhe re<g ref="char:EOLhyphen"/>garded, more than to gratify a luxurious Ap<g ref="char:EOLhyphen"/>petite; ſolid and grave in her Carriage, mixt with an innocent Chearfulneſs; not formal<g ref="char:EOLhyphen"/>ly auſtere; yet rather reſerved, than over<g ref="char:EOLhyphen"/>free; baſhful, than bold.</p>
             <p>To conclude, ſhe was one whoſe Modeſty, Charity, Friendſhip, and religious Conver<g ref="char:EOLhyphen"/>ſation, came not ſhort of her excellent Wri<g ref="char:EOLhyphen"/>tings; to which I refer the Reader, for a fuller Character of their Author, than I am capable of giving; her own Pen having diſ<g ref="char:EOLhyphen"/>cover'd the rich Treaſure of her pious Mind. But what I have written, is from an expe<g ref="char:EOLhyphen"/>rimental Knowledge of her; and no one, I believe, knew her better than my ſelf: For ſhe was as much without Reſerve to me, I think, as one Friend could be to another for we loved entirely, communicated ou<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> Minds and Exerciſes to each other freely adviſing with one another on moſt Occaſi<g ref="char:EOLhyphen"/>ons: And great was our Nearneſs and Uni<g ref="char:EOLhyphen"/>ty of the Spirit, in the Truth; yea, great her Concern for my Welfare, which ſhe zea louſly labour'd for; as the many Letters, both in Verſe and Proſe, to me writ, and here with printed, largely demonſtrates.</p>
             <p>
-               <pb facs="tcp:003191_0007_0FF0169109570978"/>
+               <pb facs="unknown:003191_0007_0FF0169109570978"/>
 And tho' Verſe is not ſo commonly uſed in Divine Subjects, as Proſe, and but too much abuſed by the extravagant Wits of the Age; yet the, like a skilful Chymiſt, had learned to ſeparate the purer Spirits, and more refined Parts of Poetry, from the earthly, worthleſs Droſs; and made uſe of her Gi<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>t, rather to convince and prevail upon the Mind, to af<g ref="char:EOLhyphen"/>fect and raiſe the Soul upon Wings of Divine Contemplation, than to pleaſe the any Fancy with Strains of Wit, and unprofitable Inven<g ref="char:EOLhyphen"/>tion, which ſhe was ever careful to avoid.</p>
             <p>And tho' living Teſtimonies to the Truth are numerous, yet few extant in Verſe, which hath an harmonious delighting Faculty in it, that influences the Minds of ſome more than Proſe, eſpecially young People, and is more apt to imprint it felt in the Memory: Therefore, her Subject being divine, and ſo ſenſibly and ſolidly managed; as it hath been of Service to thoſe few who have had the Peruſal of it, ſo, I hope, will be attended with a General Benefit.</p>
             <p>And having reaped no ſmall Advantage thereby my ſelf, could do no leſs, than re<g ref="char:EOLhyphen"/>commend her worthy Labours, and examplary Life to others, as a Pattern well worth fol<g ref="char:EOLhyphen"/>lowing. For her Acquaintance may ſay of her, as was ſaid of <hi>Ruth, The City of my Peo<g ref="char:EOLhyphen"/>ple doth know that ſhe was a vertuous Woman.</hi> And being a good Inſtrument in the Hand of
-<pb facs="tcp:003191_0008_0FF01692AC669F78"/>the Lord to me, having alſo been much comforted, encouraged and refreſhed by her Verſes, my Deſire is, That the Lord may ſo bleſs them to Poſterity, that many may reap ſuch an Advantage by them, as may tend to the Promotion of Truth, and the Good of Souls in general.</p>
+<pb facs="unknown:003191_0008_0FF01692AC669F78"/>the Lord to me, having alſo been much comforted, encouraged and refreſhed by her Verſes, my Deſire is, That the Lord may ſo bleſs them to Poſterity, that many may reap ſuch an Advantage by them, as may tend to the Promotion of Truth, and the Good of Souls in general.</p>
             <p>
                <hi>Which is the ſincere Deſire of an univerſal Well-wiſher to all Mankind.</hi>
             </p>
@@ -393,8 +394,8 @@ And tho' Verſe is not ſo commonly uſed in Divine Subjects, as Proſe, and but
             <head>A Teſtimony concerning my dear Friend, <hi>Mary Molineux.</hi>
             </head>
             <p>AS concerning my dearly beloved Friend, <hi>Mary Molineux,</hi> I have more to teſtify, than I ſhall commit to Writing, having had intimate Acquaintance and Fellowſhip with her above Sixteen Years; in all which Time, her grave, vertuous modeſt Life and Conver<g ref="char:EOLhyphen"/>ſation, deſerveth ſingular Remembrance; be<g ref="char:EOLhyphen"/>cauſe and Deportment, was always ſolid ſenſible, and tender, mixt with a feeling and ſympathizing Love to her Friends, in all Exerciſes and Afflictions: She was one to whom I could freely impart my Mind and Concerns, in any Exerciſes; as I often have done, to my Comfort and Refreſhment. My
-<pb facs="tcp:003191_0008_0FF01692AC669F78"/>Heart is moved, in the Remembrance of her Faithfulneſs and Integrity, from the Day that I was firſt acquainted with her, with Sorrow for the Loſs of ſo near a Friend; who, al<g ref="char:EOLhyphen"/>tho' ſhe was plentifully endued with many worthy Gifts and Parts, both natural and Spiritual, yet I never knew her <hi>lifted up</hi> in any of them, nor <hi>exalted above her Meaſure;</hi> but rather reſerved than in any wiſe forwardly divulging her Gifts to the publick Cenſure, without weighty Conſideration; ſo that ſhe would not caſt her Pearls before Swine: Yet not ſo much reſerved, but that to her near intimate Friends, whom ſhe knew in the Fellowſhip and Bond of Truth, ſhe was very free and tender. I remember, that ſeveral Years ago, when ſhe was a ſingle Woman, upon the Peruſal of ſome Copies of her Ver<g ref="char:EOLhyphen"/>ſes, which ſhe gave me, I felt ſuch Unity of Spirit with them, that I ſaid, I thought they might be of Service, if made publick in Print; but ſhe was not then free, that her Name ſhould be expoſed; ſhe not ſeeking Praiſe amongſt Men, but to communicate the Exerciſe of peculiar Gifts amongſt her near Friends and Acquaintance: But now, ſince it hath pleaſed the Lord to remove her out of the Earthly Tabernacle, into Everlaſting Reſt, in which, I am well ſatisfied, ſhe is for ever bleſſed, I think it would be ungrate<g ref="char:EOLhyphen"/>ful to her Memory, and alſo a wronging of
-<pb facs="tcp:003191_0009_0FF01695844C5F50"/>others, to keep ſuch worthy Things unpub<g ref="char:EOLhyphen"/>liſhed; with which I believe, the moſt that are of open Underſtandings, and unprejudi<g ref="char:EOLhyphen"/>ced Hearts, will have (in ſome meaſure) U<g ref="char:EOLhyphen"/>nity. I deſire and hope, they may truly tend to the Benefit of all moderate Readers, and to the Praiſe of him, who is the only Author of every good and perfect Gift.</p>
+<pb facs="unknown:003191_0008_0FF01692AC669F78"/>Heart is moved, in the Remembrance of her Faithfulneſs and Integrity, from the Day that I was firſt acquainted with her, with Sorrow for the Loſs of ſo near a Friend; who, al<g ref="char:EOLhyphen"/>tho' ſhe was plentifully endued with many worthy Gifts and Parts, both natural and Spiritual, yet I never knew her <hi>lifted up</hi> in any of them, nor <hi>exalted above her Meaſure;</hi> but rather reſerved than in any wiſe forwardly divulging her Gifts to the publick Cenſure, without weighty Conſideration; ſo that ſhe would not caſt her Pearls before Swine: Yet not ſo much reſerved, but that to her near intimate Friends, whom ſhe knew in the Fellowſhip and Bond of Truth, ſhe was very free and tender. I remember, that ſeveral Years ago, when ſhe was a ſingle Woman, upon the Peruſal of ſome Copies of her Ver<g ref="char:EOLhyphen"/>ſes, which ſhe gave me, I felt ſuch Unity of Spirit with them, that I ſaid, I thought they might be of Service, if made publick in Print; but ſhe was not then free, that her Name ſhould be expoſed; ſhe not ſeeking Praiſe amongſt Men, but to communicate the Exerciſe of peculiar Gifts amongſt her near Friends and Acquaintance: But now, ſince it hath pleaſed the Lord to remove her out of the Earthly Tabernacle, into Everlaſting Reſt, in which, I am well ſatisfied, ſhe is for ever bleſſed, I think it would be ungrate<g ref="char:EOLhyphen"/>ful to her Memory, and alſo a wronging of
+<pb facs="unknown:003191_0009_0FF01695844C5F50"/>others, to keep ſuch worthy Things unpub<g ref="char:EOLhyphen"/>liſhed; with which I believe, the moſt that are of open Underſtandings, and unprejudi<g ref="char:EOLhyphen"/>ced Hearts, will have (in ſome meaſure) U<g ref="char:EOLhyphen"/>nity. I deſire and hope, they may truly tend to the Benefit of all moderate Readers, and to the Praiſe of him, who is the only Author of every good and perfect Gift.</p>
             <p>
                <hi>And ſo I reſt, a Well-wiſher to all Mankind; but more eſpecially to the Houſhold of Faith.</hi>
             </p>
@@ -423,7 +424,7 @@ And tho' Verſe is not ſo commonly uſed in Divine Subjects, as Proſe, and but
             <l>And grew in her, as ſhe increas'd in Years,</l>
             <l>Bringing forth Fruit, as by her Book appears:</l>
             <l>
-               <pb facs="tcp:003191_0009_0FF01695844C5F50"/>
+               <pb facs="unknown:003191_0009_0FF01695844C5F50"/>
 Of which, a Teſtimony reſts behind,</l>
             <l>As they that read her Lines may fully find.</l>
             <l>She did not ſtrive, nor glory, to appear</l>
@@ -434,18 +435,18 @@ Of which, a Teſtimony reſts behind,</l>
          <div type="testimony">
             <head>A <hi>Teſtimony</hi> concerning my late Wife, <hi>Mary Mollineux</hi> deceaſed.</head>
             <p>COncerning my dear, loving, and late de<g ref="char:EOLhyphen"/>ceaſed Wife, <hi>Mary Mollineux,</hi> formerly <hi>Mary Southworth,</hi> whom I took in Marriage on the 10th Day of the 2d Month, 1685. I was firſt acquainted with her at <hi>Lancaſter-Caſtle,</hi> where we both, at one Time, were Priſoners for being at peaceable religious Meetings of the People called <hi>Quakers,</hi> in the Year 1684, (tho' we had ſeen each other before.) In which Impriſonment, I believed that ſhe ſhould be my Wife; but never intended to expreſs any thing thereof, whilſt we were both Priſoners, there; and after ſhe was releaſed, I ſaw her and was in Company with her ſeveral Times, before I expreſſed any thing of my Concern to take her to be my Wife; ſeveral conſide<g ref="char:EOLhyphen"/>rable Men having before attempted to prevail with her on that Account: And during the whole Time of my Acquaintance with her, which was above Eleven Years; her Life and
-<pb facs="tcp:003191_0010_0FF01697A23A19A8"/>Converſation was ſerious, innocent, ſweet and ſavoury; and ſhe was very loving, diligent, ten<g ref="char:EOLhyphen"/>der-hearted, and kindly affectionate towards me and our Children; and generally loving and tender towards all People, eſpecially ſuch as were in any Diſtreſs, Sickneſs, or Affliction, tho' never ſo poor; and the Lord bleſſed her En<g ref="char:EOLhyphen"/>deavours, as well in Advice, as Adminiſtra<g ref="char:EOLhyphen"/>tion of Remedies, to ſeveral; ſo that they have acknowledged their Recoveries to have been thereby, thro' his Bleſſing: And what ſhe did therein, was free. She was very care<g ref="char:EOLhyphen"/>ful, that nothing of Evil might get a Place in her Children, or in any with whom ſhe was concerned: And therefore good Advice and Admonition ſhe frequently gave, which many received in Love and good Eſteem of her. The Lord opened her Underſtanding, and enlarged her Capacity, in a great Degree, upon ſeveral Accounts; yet her Mind was not lifted up thereby, ſo as to glory in her Gifts or Parts; but, learning of Chriſt the Truth, to be <hi>lowly in Heart,</hi> ſhe choſe rather to appear little to Men. She was very con<g ref="char:EOLhyphen"/>ſtant and cordial to her Friends, and true in concealing of Secrets. She was often con<g ref="char:EOLhyphen"/>cerned to make Peace amongſt them that were at Difference, and often prevailed therein. She was plain and free in ſpeaking to the Faces of any, but abhorred to reproach any in ſecret. Her Heart was inclined towards
-<pb facs="tcp:003191_0010_0FF01697A23A19A8"/>God, therefore ſhe was juſt in her Dealing with all People, with whom ſhe had to do. She was convinced of the Way of Truth in her Youth, by the Light or inward Appea<g ref="char:EOLhyphen"/>rance of Chriſt in her Heart, which ſhe lo<g ref="char:EOLhyphen"/>ved; and therefore (ſhe retaining her In<g ref="char:EOLhyphen"/>tegrity to the End of her Time) a Crown of endleſs Life and Glory, I believe, the Lord hath beſtowed upon her. She was very no<g ref="char:EOLhyphen"/>ble in ſuffering Perſecution for the Teſtimo<g ref="char:EOLhyphen"/>ny of Truth, and in enduring hard Exerci<g ref="char:EOLhyphen"/>ſes, occaſioned by my ſeveral Impriſonments for the ſame Cauſe, whilſt ſhe was my Wife. And thro' ſeveral Sickneſſes and Afflictions the Lord ſupported her, to perſevere in Pa<g ref="char:EOLhyphen"/>tience, Faithfulneſs, and Conſtancy to him. She was very punctual in Performance of her Undertakings, and quick, diſcreet and diligent in her Buſineſs; yet ſtill ſhe uſed to take a Time for private Retirement in Evenings alone, (except I was with her) to wait upon, and feel after the Lord, in the Gift of his Light, Love and Grace in her Heart; and to ſee that, with the wiſe Vir<g ref="char:EOLhyphen"/>gins, ſhe had Oyl in her Burning Lamp, that it might not go out; but that ſhe might be ready to enter into the Marriage-Chamber, whenſoever the Lord, the Bride<g ref="char:EOLhyphen"/>groom of her Soul, came. She was alſo very diligent, in attending the Aſſemblies of the People of God, called <hi>Quakers,</hi> with
-<pb facs="tcp:003191_0011_0FF0169A045B0168"/>them, to meet in the Name, Power, Light and Spirit of the Lord, to wait upon him, to be opened by him, and to receive Re<g ref="char:EOLhyphen"/>freſhment, Strength and Comfort from him, and to feel the Renewings of his Love and Goodneſs in her Soul. And that Day-week next before her laſt Illneſs ſeized her (after a more than uſual Manner) ſhe ſaid to me, <hi>That the feeling and enjoying of the ſweet eternal Love of God in her Heart, was more precious to her, than all other things that could be enjoyed, &amp;c.</hi> She was concerned in her Spirit, that many, with her, and all that are faithful to God, might <hi>come</hi> to <hi>taſte and ſee how good the Lord is;</hi> and upon that Account, her Words, Writings, and Converſation, were acceptable, prevalent and ſerviceable, to the Invitation, Convincement, Strengthning and Encourage<g ref="char:EOLhyphen"/>ment of ſome to ſeek after the Lord, and his bleiſed Way and Truth, inwardly re<g ref="char:EOLhyphen"/>vealed, and to be revealed; wherein many have found great Satisfaction, and Cauſe of rejoycing. And that many more may receive Benefit by her Writings, I am deſirous and concerned to publiſh them, and refer all ſo<g ref="char:EOLhyphen"/>ber Readers, in the Fear of God, to peruſe them; not doubting but ſuch may receive Advantage thereby; tho' ſhe was not free to commit them to publick View in her Life-Time, yet ſhe had nothing againſt the publiſhing thereof afterwards.</p>
+<pb facs="unknown:003191_0010_0FF01697A23A19A8"/>Converſation was ſerious, innocent, ſweet and ſavoury; and ſhe was very loving, diligent, ten<g ref="char:EOLhyphen"/>der-hearted, and kindly affectionate towards me and our Children; and generally loving and tender towards all People, eſpecially ſuch as were in any Diſtreſs, Sickneſs, or Affliction, tho' never ſo poor; and the Lord bleſſed her En<g ref="char:EOLhyphen"/>deavours, as well in Advice, as Adminiſtra<g ref="char:EOLhyphen"/>tion of Remedies, to ſeveral; ſo that they have acknowledged their Recoveries to have been thereby, thro' his Bleſſing: And what ſhe did therein, was free. She was very care<g ref="char:EOLhyphen"/>ful, that nothing of Evil might get a Place in her Children, or in any with whom ſhe was concerned: And therefore good Advice and Admonition ſhe frequently gave, which many received in Love and good Eſteem of her. The Lord opened her Underſtanding, and enlarged her Capacity, in a great Degree, upon ſeveral Accounts; yet her Mind was not lifted up thereby, ſo as to glory in her Gifts or Parts; but, learning of Chriſt the Truth, to be <hi>lowly in Heart,</hi> ſhe choſe rather to appear little to Men. She was very con<g ref="char:EOLhyphen"/>ſtant and cordial to her Friends, and true in concealing of Secrets. She was often con<g ref="char:EOLhyphen"/>cerned to make Peace amongſt them that were at Difference, and often prevailed therein. She was plain and free in ſpeaking to the Faces of any, but abhorred to reproach any in ſecret. Her Heart was inclined towards
+<pb facs="unknown:003191_0010_0FF01697A23A19A8"/>God, therefore ſhe was juſt in her Dealing with all People, with whom ſhe had to do. She was convinced of the Way of Truth in her Youth, by the Light or inward Appea<g ref="char:EOLhyphen"/>rance of Chriſt in her Heart, which ſhe lo<g ref="char:EOLhyphen"/>ved; and therefore (ſhe retaining her In<g ref="char:EOLhyphen"/>tegrity to the End of her Time) a Crown of endleſs Life and Glory, I believe, the Lord hath beſtowed upon her. She was very no<g ref="char:EOLhyphen"/>ble in ſuffering Perſecution for the Teſtimo<g ref="char:EOLhyphen"/>ny of Truth, and in enduring hard Exerci<g ref="char:EOLhyphen"/>ſes, occaſioned by my ſeveral Impriſonments for the ſame Cauſe, whilſt ſhe was my Wife. And thro' ſeveral Sickneſſes and Afflictions the Lord ſupported her, to perſevere in Pa<g ref="char:EOLhyphen"/>tience, Faithfulneſs, and Conſtancy to him. She was very punctual in Performance of her Undertakings, and quick, diſcreet and diligent in her Buſineſs; yet ſtill ſhe uſed to take a Time for private Retirement in Evenings alone, (except I was with her) to wait upon, and feel after the Lord, in the Gift of his Light, Love and Grace in her Heart; and to ſee that, with the wiſe Vir<g ref="char:EOLhyphen"/>gins, ſhe had Oyl in her Burning Lamp, that it might not go out; but that ſhe might be ready to enter into the Marriage-Chamber, whenſoever the Lord, the Bride<g ref="char:EOLhyphen"/>groom of her Soul, came. She was alſo very diligent, in attending the Aſſemblies of the People of God, called <hi>Quakers,</hi> with
+<pb facs="unknown:003191_0011_0FF0169A045B0168"/>them, to meet in the Name, Power, Light and Spirit of the Lord, to wait upon him, to be opened by him, and to receive Re<g ref="char:EOLhyphen"/>freſhment, Strength and Comfort from him, and to feel the Renewings of his Love and Goodneſs in her Soul. And that Day-week next before her laſt Illneſs ſeized her (after a more than uſual Manner) ſhe ſaid to me, <hi>That the feeling and enjoying of the ſweet eternal Love of God in her Heart, was more precious to her, than all other things that could be enjoyed, &amp;c.</hi> She was concerned in her Spirit, that many, with her, and all that are faithful to God, might <hi>come</hi> to <hi>taſte and ſee how good the Lord is;</hi> and upon that Account, her Words, Writings, and Converſation, were acceptable, prevalent and ſerviceable, to the Invitation, Convincement, Strengthning and Encourage<g ref="char:EOLhyphen"/>ment of ſome to ſeek after the Lord, and his bleiſed Way and Truth, inwardly re<g ref="char:EOLhyphen"/>vealed, and to be revealed; wherein many have found great Satisfaction, and Cauſe of rejoycing. And that many more may receive Benefit by her Writings, I am deſirous and concerned to publiſh them, and refer all ſo<g ref="char:EOLhyphen"/>ber Readers, in the Fear of God, to peruſe them; not doubting but ſuch may receive Advantage thereby; tho' ſhe was not free to commit them to publick View in her Life-Time, yet ſhe had nothing againſt the publiſhing thereof afterwards.</p>
             <p>
-               <pb facs="tcp:003191_0011_0FF0169A045B0168"/>
+               <pb facs="unknown:003191_0011_0FF0169A045B0168"/>
 And now I ſhall give a brief Account of what I was, and am a Witneſs of, concern<g ref="char:EOLhyphen"/>ing her laſt Illneſs; and ſome of the ſweet, ſenſible and precious Words which ſhe ſpake in the Time thereof, being very ſenſible to the End; ſo that ſhe ſpake no impertinent or unſenſible Word therein, that I know of, who conſtantly attended her.</p>
             <p>Upon the Eighth Day of the 10th Month, 1695. ſhe was ſeized with violent Pain and Sickneſs, which continued, ſometimes more, and ſometimes leſs: And one Morning, ſoon after, ſhe ſaid to me thus; <hi>I have had ſuch a Dream, as I have ſeldom had; it is an Emblem of my Life;</hi> and then ſhe told it me thus; viz. <hi>She dreamed, that ſhe was going at the Side of a pleaſant broad River, and ſometimes ſhe came to Breaches; which, Brooks running into the River, or the like, had made upon the Shore of it; which Breaches ſhe paſſed over, but ſometimes with Difficulty, and then ran faſt on ſtill, till ſhe came to another Breach; and having paſſed ſeve<g ref="char:EOLhyphen"/>ral Breaches, ſome greater, and ſome leſſer, at laſt ſhe came to a Breach which was greater than any of the reſt, and ſhe ſaid within her ſelf, How ſhall I get over this Breach? But ſhe went on, and paſſed thro' it, and it was fair on the other Side; and ſhe awaked.</hi> Now, as ſhe looked upon this Dream to be an Emblem of her Life, ſo I cannot (nor could not ſince ſhe told it me) expound it otherwiſe than thus; <hi>viz.</hi> That
-<pb facs="tcp:003191_0012_0FF0169D3518D1B8"/>the pleaſant broad River ſignified the Lord her Creator, (who is to his People <hi>a Place of broad Rivers,</hi> Iſa. 31.21.) and the Shore thereof, upon which ſhe walked, ſignified Time, and the Breaches, which ſhe paſſed over, were the Difficulties and Afflictions which ſhe paſſed thro' in her Time; and the laſt and greateſt Breach, which ſhe came to, and paſſed over, ſignified her laſt Sickneſs and Death. From which Dream (as a ſignificant Parable) all may learn and conſider how faſt they are haſtning or run<g ref="char:EOLhyphen"/>ning towards their laſt and greateſt Breach; even the Death or Diſſolution of their earth<g ref="char:EOLhyphen"/>ly Tabernacles; and none knoweth how near they are to it. About Nine Days after her ſaid Illneſs began, ſhe ſaid to me thus, viz. <hi>I am well content, if the Lord ſee meet, that he take me away by this Diſtemper, rather to be in this Pain; for my Pain is great, and I know not what is in this World I can deſire, to ſtay to enjoy, except it is my Love, and my little Lads;</hi> meaning me, and our two Children. Of whom ſhe then ſaid thus, <hi>I would rather have my Children en<g ref="char:EOLhyphen"/>riched with the Fear of the Lord, than with all Manner of Worldly Riches.</hi> About the ſame Time, ſhe ſaid, <hi>I am thinking of honeſt</hi> Rich<g ref="char:EOLhyphen"/>ard Johnſon, (who was a near Friend to us) <hi>that ſlept much of the Time of his Illneſs, before his Departure; methinks it ſeemeth like an eaſie Paſſage.</hi> And ſoon after that, ſhe began to
-<pb facs="tcp:003191_0012_0FF0169D3518D1B8"/>be inclind to Sleepineſs, and ſlept more and more, till the End; yet, at her awaking, was ſtill ſenſible and chearful: And tho' ſhe was daily weaker and weaker, yet ſhe would ſtill ſit up five or ſix, or more Hours in the E<g ref="char:EOLhyphen"/>venings, and diſcourſe freely and chearfully, till within five Days of her Departure. I often deſired her to to accept of the Advice of ſome Phyſitian, but ſhe was ſtill averſe thereto, in this Illneſs, tho' in others ſhe had complied. On the 20th Day of her Ill<g ref="char:EOLhyphen"/>neſs, in the Evening, diſcourſing very freely (as formerly) ſhe told me, <hi>She was well ſa<g ref="char:EOLhyphen"/>tisfied, that if the Lord took her away by that Diſtemper, ſhe ſhould be eternally Happy;</hi> with many other ſenſible and comfortable Expreſ<g ref="char:EOLhyphen"/>ſions: Tho' ſhe was ſo weak, that the ſame Evening, about the eleventh Hour, I thought ſhe had been departing; but in a little Time, recovering her Breath, ſhe ſpoke chearfully and ſlept. At her awaking, that Night, I asked her, How ſhe was? She anſwered, <hi>Thro' Mercy, indifferent.</hi> And after a little Pauſe, ſhe very ſenſibly ſaid, <hi>Amictum iri, vet Amiciendum eſſe;</hi> which is in <hi>Engliſh, To be cloathed hereafter,</hi> in two Expreſſions of it: Whereby I underſtood, that ſhe was mind<g ref="char:EOLhyphen"/>ing, how the Lord would cloath her here<g ref="char:EOLhyphen"/>after, when her Mortal Cloathing was put off. Then I deſired her in Engliſh Words, (for they that were preſent, underſtood not
-<pb facs="tcp:003191_0013_0FF0169ED29BF638"/>
+<pb facs="unknown:003191_0012_0FF0169D3518D1B8"/>the pleaſant broad River ſignified the Lord her Creator, (who is to his People <hi>a Place of broad Rivers,</hi> Iſa. 31.21.) and the Shore thereof, upon which ſhe walked, ſignified Time, and the Breaches, which ſhe paſſed over, were the Difficulties and Afflictions which ſhe paſſed thro' in her Time; and the laſt and greateſt Breach, which ſhe came to, and paſſed over, ſignified her laſt Sickneſs and Death. From which Dream (as a ſignificant Parable) all may learn and conſider how faſt they are haſtning or run<g ref="char:EOLhyphen"/>ning towards their laſt and greateſt Breach; even the Death or Diſſolution of their earth<g ref="char:EOLhyphen"/>ly Tabernacles; and none knoweth how near they are to it. About Nine Days after her ſaid Illneſs began, ſhe ſaid to me thus, viz. <hi>I am well content, if the Lord ſee meet, that he take me away by this Diſtemper, rather to be in this Pain; for my Pain is great, and I know not what is in this World I can deſire, to ſtay to enjoy, except it is my Love, and my little Lads;</hi> meaning me, and our two Children. Of whom ſhe then ſaid thus, <hi>I would rather have my Children en<g ref="char:EOLhyphen"/>riched with the Fear of the Lord, than with all Manner of Worldly Riches.</hi> About the ſame Time, ſhe ſaid, <hi>I am thinking of honeſt</hi> Rich<g ref="char:EOLhyphen"/>ard Johnſon, (who was a near Friend to us) <hi>that ſlept much of the Time of his Illneſs, before his Departure; methinks it ſeemeth like an eaſie Paſſage.</hi> And ſoon after that, ſhe began to
+<pb facs="unknown:003191_0012_0FF0169D3518D1B8"/>be inclind to Sleepineſs, and ſlept more and more, till the End; yet, at her awaking, was ſtill ſenſible and chearful: And tho' ſhe was daily weaker and weaker, yet ſhe would ſtill ſit up five or ſix, or more Hours in the E<g ref="char:EOLhyphen"/>venings, and diſcourſe freely and chearfully, till within five Days of her Departure. I often deſired her to to accept of the Advice of ſome Phyſitian, but ſhe was ſtill averſe thereto, in this Illneſs, tho' in others ſhe had complied. On the 20th Day of her Ill<g ref="char:EOLhyphen"/>neſs, in the Evening, diſcourſing very freely (as formerly) ſhe told me, <hi>She was well ſa<g ref="char:EOLhyphen"/>tisfied, that if the Lord took her away by that Diſtemper, ſhe ſhould be eternally Happy;</hi> with many other ſenſible and comfortable Expreſ<g ref="char:EOLhyphen"/>ſions: Tho' ſhe was ſo weak, that the ſame Evening, about the eleventh Hour, I thought ſhe had been departing; but in a little Time, recovering her Breath, ſhe ſpoke chearfully and ſlept. At her awaking, that Night, I asked her, How ſhe was? She anſwered, <hi>Thro' Mercy, indifferent.</hi> And after a little Pauſe, ſhe very ſenſibly ſaid, <hi>Amictum iri, vet Amiciendum eſſe;</hi> which is in <hi>Engliſh, To be cloathed hereafter,</hi> in two Expreſſions of it: Whereby I underſtood, that ſhe was mind<g ref="char:EOLhyphen"/>ing, how the Lord would cloath her here<g ref="char:EOLhyphen"/>after, when her Mortal Cloathing was put off. Then I deſired her in Engliſh Words, (for they that were preſent, underſtood not
+<pb facs="unknown:003191_0013_0FF0169ED29BF638"/>
                <hi>Latin,</hi>) that if ſhe had any thing in her Mind, either concerning her Children, or any other Thing farther to communicate to me, that ſhe would do it; but ſhe, (as if all outward Things were then out of her Thoughts) quickly replied in <hi>Latin, Why ſpeakeſt thou ſuch Things? Doſt not thou underſtand me?</hi> I anſwer<g ref="char:EOLhyphen"/>ed in <hi>Latin, Yes, I very well underſtand thee, and that thou ſpeakeſt of Spiritual Things:</hi> She anſwered, <hi>Yes, but ſhe had nothing concerning outward Things, farther to communicate to me.</hi> The next Morning, about the Ninth Hour, I again thought ſhe had been departing; but after a little Time, ſomewhat recover<g ref="char:EOLhyphen"/>ing her Breath, and ſeeing me expreſs, to Friends that were preſent, ſomething or my Concern for her, ſhe ſaid to me, <hi>Ne nimis ſolicitus eſto;</hi> that is, in <hi>Engliſh, Be not thou overmuch careful,</hi> or <hi>troubled;</hi> which Advice took Impreſſion in my Heart: And that was the laſt <hi>Latin</hi> Sentence that ſhe ſpake, that I know of; and ſhe never ſpake in <hi>Latin,</hi> in this Illneſs, that I remember, except when Company was preſent, that ſhe would ſpeak only to me? A little after, moſt of the Company being gone out, I asked her, how ſhe was? She anſwered, <hi>Drawing nearer and nearer.</hi> And many ſweet and loving Senten<g ref="char:EOLhyphen"/>ces ſhe ſpake to me that Day, and the Day next after; but afterwards was ſcarcely able to anſwer to any Queſtion, but continued
-<pb facs="tcp:003191_0013_0FF0169ED29BF638"/>moſtly ſleeping, as it were, ſweetly and qui<g ref="char:EOLhyphen"/>etly: And on the Third Day of the 11th Month, 1695, in the Evening, ſhe departed, without any Noiſe, Sigh, or Groan.</p>
+<pb facs="unknown:003191_0013_0FF0169ED29BF638"/>moſtly ſleeping, as it were, ſweetly and qui<g ref="char:EOLhyphen"/>etly: And on the Third Day of the 11th Month, 1695, in the Evening, ſhe departed, without any Noiſe, Sigh, or Groan.</p>
             <p>And ſo, tho' the Lord, who in his Love, joyned us together, and gave us for Bleſſings to each other, and bleſſed us with the abun<g ref="char:EOLhyphen"/>dant Increaſe of his Love in our Hearts, even to the end of her Time, hath ſeen meet to take from me her Company, which I valu<g ref="char:EOLhyphen"/>ed above all other Temporal Enjoyments; the Loſs whereof is great to me: Yet being ſa<g ref="char:EOLhyphen"/>tisfied, that ſhe is entred into Reſt, in the Boſom of God's Love, with him, to live in Peace and Happineſs for ever; and alſo, be<g ref="char:EOLhyphen"/>ing clear, in that, thro' his Aſſiſtance, ac<g ref="char:EOLhyphen"/>cording to the Underſtanding given me, I have endeavoured fully to diſcharge my Duty of endeared Love to her in every reſpect, in her laſt (as well as former) Exerciſes; there<g ref="char:EOLhyphen"/>fore I am, in the Love of God, comforted, and can chearfully and freely ſay, The Lord's Will is worthy to be done in all things, and his Name to be bleſſed, praiſed and magni<g ref="char:EOLhyphen"/>ted, over all, for ever,</p>
             <closer>
                <signed>By <hi>Henry Mollineux.</hi>
@@ -453,7 +454,7 @@ And now I ſhall give a brief Account of what I was, and am a Witneſs of, conce
             </closer>
          </div>
          <div type="poem">
-            <pb facs="tcp:003191_0014_0FF016A143740880"/>
+            <pb facs="unknown:003191_0014_0FF016A143740880"/>
             <head>A few Words more, in Remembrance of my Dear Wife, <hi>M. M.</hi>
             </head>
             <l>THO' it may ſeem to ſome that read my Lines</l>
@@ -486,7 +487,7 @@ And now I ſhall give a brief Account of what I was, and am a Witneſs of, conce
             </l>
             <l>Short <hi>Time!</hi>) which we in tender Love did paſs alas,</l>
             <l>
-               <pb facs="tcp:003191_0014_0FF016A143740880"/>
+               <pb facs="unknown:003191_0014_0FF016A143740880"/>
 Endearingly, which in our Hearts was ſown</l>
             <l>Some time before, by the Eternal One;</l>
             <l>Which, living in our Boſoms, did encreaſe,</l>
@@ -522,7 +523,7 @@ Endearingly, which in our Hearts was ſown</l>
             <l>
                <hi>Wiſdom</hi> to ſtop their Mouths, their <hi>Wits</hi> confound;</l>
             <l>
-               <pb facs="tcp:003191_0015_0FF016A2F567E3E8"/>
+               <pb facs="unknown:003191_0015_0FF016A2F567E3E8"/>
 Tho' of the chief in <hi>Babel's</hi> Learning, they</l>
             <l>Stood as amaz'd, and knew not what to ſay.</l>
             <l>A Biſhop of two Counties Dioceſs</l>
@@ -557,7 +558,7 @@ Tho' of the chief in <hi>Babel's</hi> Learning, they</l>
             <l>Made ſenſible thereof, tho' in the Goal,</l>
             <l>Diſtant near forty Miles, and did condole;</l>
             <l>
-               <pb facs="tcp:003191_0015_0FF016A2F567E3E8"/>
+               <pb facs="unknown:003191_0015_0FF016A2F567E3E8"/>
 And for her to the Lord I pray'd, whoſe Ear</l>
             <l>Was open, and thro' Priſon-walls did hear;</l>
             <l>And he releas'd her from her Malady,</l>
@@ -589,7 +590,7 @@ And for her to the Lord I pray'd, whoſe Ear</l>
             <l>For which, ſome have good Cauſe to bleſs the Name</l>
             <l>Of God, from whom thoſe <hi>Words</hi> with Vertue came.</l>
             <l>
-               <pb facs="tcp:003191_0016_0FF016A490638A98"/>
+               <pb facs="unknown:003191_0016_0FF016A490638A98"/>
                <hi>This</hi> is not writ to magnify her Praiſe,</l>
             <l>The <hi>Praiſe belongs to God,</hi> who firſt did raiſe</l>
             <l>Her Mind from things below, to ſeek his <hi>Truth,</hi>
@@ -626,14 +627,14 @@ And for her to the Lord I pray'd, whoſe Ear</l>
             </bibl>
          </div>
          <div type="testimony">
-            <pb facs="tcp:003191_0016_0FF016A490638A98"/>
+            <pb facs="unknown:003191_0016_0FF016A490638A98"/>
             <head>The following Relation, touching ſome Diſ<g ref="char:EOLhyphen"/>courſe that (upon Occaſion) ſhe had with Doctor <hi>Stratford</hi> (ſo called) Biſhop of the Dioceſs of <hi>Cheſhire</hi> and <hi>Lancaſhire,</hi> &amp;c.</head>
             <head type="sub">
                <hi>Given forth and Atteſted by my Kinſman,</hi> Henry Mollineux, <hi>who was there preſent,</hi> viz.</head>
             <p>UPon the 18th Day of the 12th Month, 1690. I and another Neighbour were taken Priſoners, and brought to <hi>Lancaſter-</hi> Goal, upon a Writ <hi>de Excomm. Capiend.</hi> for not appearing at the Biſhop's Court in <hi>Cheſter;</hi> tho' willing to appear, but had no Citation ſhewed us, nor Lawful Notice given: Of which Proceedings (it being witneſſed under the Hands of ſeveral who were preſent when ſuch Notice was pretended to be given) ſhe acquainted the ſaid Biſhop, he being at <hi>Orms<g ref="char:EOLhyphen"/>kirk,</hi> near our Dwelling, in the Sixth Month, 1691. and it was ſo evidently manifeſted to him, that he ſeemed ſatisfied of the Truth thereof, and ſaid, <hi>they who ſhould have given the Notice, were to be blamed,</hi> &amp;c. And mode<g ref="char:EOLhyphen"/>rately diſcourſing with her, he ſaid, <hi>If ſhe would come to his Dwelling-Houſe in</hi> Wigan, <hi>within two or three Weeks, when he had conferred with his Chancellor, if he could find out any way to do it, he would do any Kindneſs therein, that <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>ay in his Power for her.</hi> Now that which ſhe
-<pb facs="tcp:003191_0017_0FF016A644F9E148"/>deſired was, that the Priſoners might be ad<g ref="char:EOLhyphen"/>mitted in his Court, to put in their Appea<g ref="char:EOLhyphen"/>rance; for Want of which they were im<g ref="char:EOLhyphen"/>priſoned. So, upon his Advice, on the 24th Day of the 6th Month, 1691. ſhe went to the Biſhop's Houſe in <hi>Wigan,</hi> to receive his Anſwer; where he again diſcourſed with her, and ſeemed willing that the Priſoners might be admitted to put in their Appearance; but his Chancellor's Deputy there concluded, that they could not be ſo admitted. Then the Biſhop asked her, <hi>Why they would not pay the Church-Dues</hi> (for that was the Cauſe for which we were proſecuted) ſhe anſwered, <hi>they could not pay them for Conſcience-ſake.</hi> He required her to ſhew him ſome Scripture for it; then ſhe asked him to ſhew her any Precept or Example in the Scriptures, that the <hi>Jews,</hi> or any of the People of God, ever offered to compel any other People to pay towards the upholding of their Worſhip or Worſhip-houſes, or T<gap reason="illegible" resp="#PDCC" extent="1 letter">
+<pb facs="unknown:003191_0017_0FF016A644F9E148"/>deſired was, that the Priſoners might be ad<g ref="char:EOLhyphen"/>mitted in his Court, to put in their Appea<g ref="char:EOLhyphen"/>rance; for Want of which they were im<g ref="char:EOLhyphen"/>priſoned. So, upon his Advice, on the 24th Day of the 6th Month, 1691. ſhe went to the Biſhop's Houſe in <hi>Wigan,</hi> to receive his Anſwer; where he again diſcourſed with her, and ſeemed willing that the Priſoners might be admitted to put in their Appearance; but his Chancellor's Deputy there concluded, that they could not be ſo admitted. Then the Biſhop asked her, <hi>Why they would not pay the Church-Dues</hi> (for that was the Cauſe for which we were proſecuted) ſhe anſwered, <hi>they could not pay them for Conſcience-ſake.</hi> He required her to ſhew him ſome Scripture for it; then ſhe asked him to ſhew her any Precept or Example in the Scriptures, that the <hi>Jews,</hi> or any of the People of God, ever offered to compel any other People to pay towards the upholding of their Worſhip or Worſhip-houſes, or T<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>mples? The Biſhop replied, <hi>tho' he could not do that, yet what Scrip<g ref="char:EOLhyphen"/>ture have you for it,</hi> ſaid he, <hi>that you cannot pay to ours for Conſcience-ſake?</hi> She anſwering, ſaid, <hi>I will offer thee Scripture for it, and it is this; It is ſaid in the Scriptures,</hi> Come out from a<g ref="char:EOLhyphen"/>mong them, (my People) and be ye ſeparate, faith the Lord, touch not the unclean thing, and I will receive you, 2 <hi>Cor.</hi> 6.17, 18. <hi>Rev.</hi> 18.4. <hi>Now</hi> (ſaid ſhe) <hi>if we had believed that you</hi>
             </p>
@@ -644,7 +645,7 @@ And for her to the Lord I pray'd, whoſe Ear</l>
       </front>
       <body>
          <div type="poems">
-            <pb facs="tcp:003191_0017_0FF016A644F9E148"/>
+            <pb facs="unknown:003191_0017_0FF016A644F9E148"/>
             <head>
                <hi>Fruits of Retirement:</hi> OR, Miſcellaneous POEMS <hi>Moral and Divine.</hi>
             </head>
@@ -670,7 +671,7 @@ And for her to the Lord I pray'd, whoſe Ear</l>
                <l>But ah, the Bowels of eternal Love</l>
                <l>Did then, with Pity and Compaſſion, move</l>
                <l>
-                  <pb n="12" facs="tcp:003191_0018_0FF016A7D853EBA8"/>
+                  <pb n="12" facs="unknown:003191_0018_0FF016A7D853EBA8"/>
 Towards his Creature, that he promiſed,</l>
                <l>
                   <hi>The Woman's Seed ſhall bruiſe the Serpent's Head:</hi>
@@ -712,7 +713,7 @@ Towards his Creature, that he promiſed,</l>
                <l>Which me into <hi>Temptation,</hi> thus hath brought,</l>
                <l>That I (inſtead of Wiſdom) Folly ſought.</l>
                <l>
-                  <pb n="13" facs="tcp:003191_0018_0FF016A7D853EBA8"/>
+                  <pb n="13" facs="unknown:003191_0018_0FF016A7D853EBA8"/>
 O that I were at Peace with thee, and could</l>
                <l>Truly lament my ſins, ſo manifold!</l>
                <l>My ſins, which will, except thou grant Relief,</l>
@@ -758,7 +759,7 @@ O that I were at Peace with thee, and could</l>
                   </gap>n what <hi>Aegyptian-Red-Sea</hi> ſtraights am I?</l>
                <l>Whither, or to what Refuge ſhall I fly?</l>
                <l>
-                  <pb n="14" facs="tcp:003191_0019_0FF016AA88FBAAD8"/>
+                  <pb n="14" facs="unknown:003191_0019_0FF016AA88FBAAD8"/>
 But unto thee? In whom alone I muſt</l>
                <l>Repoſe my Confidence, and chiefeſt Truſt</l>
                <l>Renew my <hi>Strength</hi> (dear Lord) that ſo I ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -812,7 +813,7 @@ But unto thee? In whom alone I muſt</l>
                   <desc>〈2 pages missing〉</desc>
                </gap>
                <l>
-                  <pb n="17" facs="tcp:003191_0020_0FF016ADEFE254D0"/>
+                  <pb n="17" facs="unknown:003191_0020_0FF016ADEFE254D0"/>
 And mourn for her, as for that City was,</l>
                <l>Thro' whoſe ſad Streets our Saviour did paſs</l>
                <l>Bearing <hi>his Croſs</hi>) may now be found? For <hi>they,</hi>
@@ -871,7 +872,7 @@ And mourn for her, as for that City was,</l>
                      </gap>f my Salvation</hi>) nor the Power of God,</l>
                <l>That will chaſtize, as with an Iron-Rod,</l>
                <l>
-                  <pb n="18" facs="tcp:003191_0021_0FF016AFF64514E8"/>
+                  <pb n="18" facs="unknown:003191_0021_0FF016AFF64514E8"/>
 The proud <hi>rebellious Ones;</hi> who ſhall be known</l>
                <l>To be but Hirelings, whom he will nor own.</l>
                <l>Theſe are they that for Gain do propheſie</l>
@@ -903,7 +904,7 @@ The proud <hi>rebellious Ones;</hi> who ſhall be known</l>
                <l>Tho ſlothfully they hide, ſometimes deny</l>
                <l>The Talents given by thy Majeſty;</l>
                <l>
-                  <pb n="19" facs="tcp:003191_0021_0FF016AFF64514E8"/>
+                  <pb n="19" facs="unknown:003191_0021_0FF016AFF64514E8"/>
 Thou doſt not in thine Indignation thus</l>
                <l>Paſs ſo ſevere a Sentence upon us;</l>
                <l>Altho' we, of our ſelves, ſo barren be,</l>
@@ -942,7 +943,7 @@ Thou doſt not in thine Indignation thus</l>
                <l>Would unto his moſt ſacred Will reſign</l>
                <l>Themſelves, and all: Then would he with Di<g ref="char:EOLhyphen"/>vine</l>
                <l>
-                  <pb n="20" facs="tcp:003191_0022_0FF016B192173DA8"/>
+                  <pb n="20" facs="unknown:003191_0022_0FF016B192173DA8"/>
 Sweet <hi>Heavenly Show'rs</hi> bedew, &amp; always bleſs.</l>
                <l>Them, that they might be <hi>Trees of Righteouſneſs</hi>
                </l>
@@ -979,7 +980,7 @@ Sweet <hi>Heavenly Show'rs</hi> bedew, &amp; always bleſs.</l>
                <l>And with a Pillar of bright Fire by Night,</l>
                <l>Conducted you in pleaſant Paths of Light?</l>
                <l>
-                  <pb n="21" facs="tcp:003191_0022_0FF016B192173DA8"/>
+                  <pb n="21" facs="unknown:003191_0022_0FF016B192173DA8"/>
 Did I not <hi>Jordan</hi>'s flowing Streams divide,</l>
                <l>Whiſt you paſs'd <hi>dry-ſhod</hi> to the further ſide?</l>
                <l>Yea, without humane Art, I caus'd to fall,</l>
@@ -1012,7 +1013,7 @@ Did I not <hi>Jordan</hi>'s flowing Streams divide,</l>
                <l>Stiff-necked People are ye then, to chooſe</l>
                <l>Man for your King, but ſtubbornly refuſe</l>
                <l>
-                  <pb n="22" facs="tcp:003191_0023_0FF016B451E4D368"/>
+                  <pb n="22" facs="unknown:003191_0023_0FF016B451E4D368"/>
 Me, your Creator, that ye may hereby</l>
                <l>Be like your Neighbours; whoſe Idolatry</l>
                <l>You alſo dote upon: Tho' my Command</l>
@@ -1040,7 +1041,7 @@ Me, your Creator, that ye may hereby</l>
                <l>I'd quite expell'd your Foes from out the Land</l>
             </div>
             <div type="poem">
-               <pb n="23" facs="tcp:003191_0023_0FF016B451E4D368"/>
+               <pb n="23" facs="unknown:003191_0023_0FF016B451E4D368"/>
                <head>Meditations in Trouble.</head>
                <l>O How is my diſtreſſed Soul perplext</l>
                <l>With <hi>overwhelming Sorrows!</hi> Ah how vext</l>
@@ -1071,7 +1072,7 @@ Me, your Creator, that ye may hereby</l>
                      <g ref="char:V">Ʋ</g>nderſtanding;</hi> thou didſt pleaſe</l>
                <l>To engage thy ſelf, That if a Sinner ceaſe,</l>
                <l>
-                  <pb n="24" facs="tcp:003191_0024_0FF016B616B76A18"/>
+                  <pb n="24" facs="unknown:003191_0024_0FF016B616B76A18"/>
 From his paſs'd Wickedneſs, and fervently</l>
                <l>Do unto thee Great King, for Mercy cry,</l>
                <l>So that thy holy Precepts he obey,</l>
@@ -1106,7 +1107,7 @@ From his paſs'd Wickedneſs, and fervently</l>
                   <desc>〈25 pages missing〉</desc>
                </gap>
                <l>
-                  <pb n="49" facs="tcp:003191_0024_0FF016B616B76A18"/>
+                  <pb n="49" facs="unknown:003191_0024_0FF016B616B76A18"/>
 The earneſt Breathing of my Heart, and vail</l>
                <l>Thy Beauty over-long, leſt Doubts prevail:</l>
                <l>Let gently teach me always to ſuomis</l>
@@ -1161,7 +1162,7 @@ The earneſt Breathing of my Heart, and vail</l>
                   </gap> 
                   <hi>Moſes,</hi> for a Seaſon ſhould withdraw;</l>
                <l>
-                  <pb n="50" facs="tcp:003191_0025_0FF016B89A85E2F0"/>
+                  <pb n="50" facs="unknown:003191_0025_0FF016B89A85E2F0"/>
 Willing and running to our own Deſtruction,</l>
                <l>When we ſhould wait on thee <hi>to gain Inſtruction.</hi>
                </l>
@@ -1197,7 +1198,7 @@ Willing and running to our own Deſtruction,</l>
                <l>MY Heart <hi>(dear Couſin)</hi> thy eternal Good</l>
                <l>Truly deſires, and that Life's ſaving Food</l>
                <l>
-                  <pb n="51" facs="tcp:003191_0025_0FF016B89A85E2F0"/>
+                  <pb n="51" facs="unknown:003191_0025_0FF016B89A85E2F0"/>
 Thy Soul may taſte and feed upon; that ſo</l>
                <l>Thou may'ſt unto a perfect Stature grow</l>
                <l>In Jeſus Chriſt, the bleſs'd <hi>Emmanuel,</hi>
@@ -1251,7 +1252,7 @@ Thy Soul may taſte and feed upon; that ſo</l>
                         <desc>•</desc>
                      </gap>or Jeſus ſake;</hi> thou know'ſt thou waſt not born</l>
                <l>
-                  <pb n="52" facs="tcp:003191_0026_0FF016BA508658C0"/>
+                  <pb n="52" facs="unknown:003191_0026_0FF016BA508658C0"/>
 To ſeve the <hi>World,</hi> the <hi>Fleſh,</hi> not <hi>Satan</hi> neither</l>
                <l>Therefore; altho' all theſe conſpire together,</l>
                <l>Give <hi>Chriſt</hi> thy Heart, and he will give the Strength</l>
@@ -1300,7 +1301,7 @@ To ſeve the <hi>World,</hi> the <hi>Fleſh,</hi> not <hi>Satan</hi> neither</l>
                <l>My Heart is full, and fluent to indite,</l>
                <l>My hand is therefore thus engag'd to write</l>
                <l>
-                  <pb n="53" facs="tcp:003191_0026_0FF016BA508658C0"/>
+                  <pb n="53" facs="unknown:003191_0026_0FF016BA508658C0"/>
 Much more than at the firſt I did intend,</l>
                <l>And yet I ſcarce can freely make an end.</l>
                <closer>
@@ -1351,7 +1352,7 @@ Much more than at the firſt I did intend,</l>
                <l>And fading Toys, their Treaſure lies below,</l>
                <l>Which ſoon corrupts; ſuch reap, ev'n as they ſow</l>
                <l>
-                  <pb n="54" facs="tcp:003191_0027_0FF016BCCB0BFCD8"/>
+                  <pb n="54" facs="unknown:003191_0027_0FF016BCCB0BFCD8"/>
 Sad Diſappointments. <hi>Sion</hi>'s Converts muſt</l>
                <l>Redemption know by Judgments true and juſt.</l>
                <l>Alas, the Hope of Hypocrites ſhall fail!</l>
@@ -1389,7 +1390,7 @@ Sad Diſappointments. <hi>Sion</hi>'s Converts muſt</l>
                <l>The <hi>Day of ſmall things;</hi> Ah, believe, that ſhe</l>
                <l>That Faithful in a little is, ſhall be</l>
                <l>
-                  <pb n="55" facs="tcp:003191_0027_0FF016BCCB0BFCD8"/>
+                  <pb n="55" facs="unknown:003191_0027_0FF016BCCB0BFCD8"/>
 Made Ruler over much: Commit thine All</l>
                <l>
                   <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1467,7 +1468,7 @@ Made Ruler over much: Commit thine All</l>
                      <desc>•</desc>
                   </gap>or Grace, to him that's eaſie to entreat</l>
                <l>
-                  <pb n="56" facs="tcp:003191_0028_0FF016BE5CE7B820"/>
+                  <pb n="56" facs="unknown:003191_0028_0FF016BE5CE7B820"/>
 By all, that in true Lowlineſs of Mind,</l>
                <l>Make their Addreſles: <hi>Seek and ye ſhall find,</hi>
                </l>
@@ -1509,7 +1510,7 @@ By all, that in true Lowlineſs of Mind,</l>
                <l>Their ſacred Vows, whereby they did</l>
                <l>Engage in holy Fear</l>
                <l>
-                  <pb n="57" facs="tcp:003191_0028_0FF016BE5CE7B820"/>
+                  <pb n="57" facs="unknown:003191_0028_0FF016BE5CE7B820"/>
                   <gap reason="illegible" resp="#PDCC" extent="1 span">
                      <desc>〈…〉</desc>
                   </gap> undone what he forbad,</l>
@@ -1627,7 +1628,7 @@ By all, that in true Lowlineſs of Mind,</l>
                      </gap>op low to Truth, and learn Humility.</hi>
                </l>
                <l>
-                  <pb n="58" facs="tcp:003191_0029_0FF016C2E26FE718"/>
+                  <pb n="58" facs="unknown:003191_0029_0FF016C2E26FE718"/>
                   <hi>This thou waſt once acquainted with;</hi>
                </l>
                <l>
@@ -1718,7 +1719,7 @@ By all, that in true Lowlineſs of Mind,</l>
                   <desc>〈5 pages missing〉</desc>
                </gap>
                <l>
-                  <pb n="63" facs="tcp:003191_0030_0FF016C476815A98"/>
+                  <pb n="63" facs="unknown:003191_0030_0FF016C476815A98"/>
                   <hi>
                      <gap reason="illegible" resp="#PDCC" extent="1 word">
                         <desc>〈◊〉</desc>
@@ -1814,7 +1815,7 @@ By all, that in true Lowlineſs of Mind,</l>
                <l>Than He in all his Glory; which, tho' he</l>
                <l>Diſdain'd to own, whilſt in Proſperity,</l>
                <l>
-                  <pb n="64" facs="tcp:003191_0031_0FF016C6316A3520"/>
+                  <pb n="64" facs="unknown:003191_0031_0FF016C6316A3520"/>
 Except with Frowns, nor car'd <gap reason="illegible" resp="#PDCC" extent="1 span">
                      <desc>〈…〉</desc>
                   </gap>
@@ -1903,7 +1904,7 @@ Except with Frowns, nor car'd <gap reason="illegible" resp="#PDCC" extent="1 spa
                <l>Are but too prevalent with ſome, except</l>
                <l>True Watch and Ward within be always kept</l>
                <l>
-                  <pb n="65" facs="tcp:003191_0031_0FF016C6316A3520"/>
+                  <pb n="65" facs="unknown:003191_0031_0FF016C6316A3520"/>
 That thus my Exerciſed Heart indites</l>
                <l>Unto thee; and my Hand, thus guided writes,</l>
                <l>With true Dependance on that Arm of Power,</l>
@@ -1943,7 +1944,7 @@ That thus my Exerciſed Heart indites</l>
                   <hi>Dear Child!</hi> Conſider and incline thine Ear,</l>
                <l>Bow down in Meekneſs, and thou'lt quickly hear,</l>
                <l>
-                  <pb n="66" facs="tcp:003191_0032_0FF016C852F01178"/>
+                  <pb n="66" facs="unknown:003191_0032_0FF016C852F01178"/>
 The <hi>ſtill ſmall voice</hi> which doth behind thee ſay</l>
                <l>
                   <hi>Come follow me, this is the Heav'nly Way,</hi>
@@ -1988,7 +1989,7 @@ The <hi>ſtill ſmall voice</hi> which doth behind thee ſay</l>
                <l>And proſecute, as thoſe have ever done</l>
                <l>That ſtubbornly Rebel againſt the Son</l>
                <l>
-                  <pb n="67" facs="tcp:003191_0032_0FF016C852F01178"/>
+                  <pb n="67" facs="unknown:003191_0032_0FF016C852F01178"/>
 And Heir of Glory: Him they buffetted,</l>
                <l>Revil'd and ſcorn'd; and on his Comely Head</l>
                <l>They tauntingly did ſet a Crown of Thorn,</l>
@@ -2023,7 +2024,7 @@ And Heir of Glory: Him they buffetted,</l>
                <l>That would thy Conqu'ring Arm oppoſe;</l>
                <l>But to the Joy</l>
                <l>
-                  <pb n="68" facs="tcp:003191_0033_0FF016CA3191A6C8"/>
+                  <pb n="68" facs="unknown:003191_0033_0FF016CA3191A6C8"/>
 Of all that humbly wait in fear,</l>
                <l>And love to ſee thee, Lord appear</l>
                <l>In perfect Purity.</l>
@@ -2061,7 +2062,7 @@ Of all that humbly wait in fear,</l>
                <l>To juſtifie his upright Cauſe, or ſay</l>
                <l>The leaſt Reviling Word? Nay, ſurely Nay</l>
                <l>
-                  <pb n="69" facs="tcp:003191_0033_0FF016CA3191A6C8"/>
+                  <pb n="69" facs="unknown:003191_0033_0FF016CA3191A6C8"/>
 How then dare any, whom his Boundleſs Love</l>
                <l>Hath once engag'd, if he be pleas'd to prove</l>
                <l>Their Faith by Trials, as in ſecret ſay,</l>
@@ -2099,7 +2100,7 @@ How then dare any, whom his Boundleſs Love</l>
                <l>Our troubled Hearts, in true Humility,</l>
                <l>To wait on thee with holy fervency:</l>
                <l>
-                  <pb n="70" facs="tcp:003191_0034_0FF016CCA6B85E68"/>
+                  <pb n="70" facs="unknown:003191_0034_0FF016CCA6B85E68"/>
 For thou our Souls haſt often viſited,</l>
                <l>That we might, by thy render hand, be led</l>
                <l>From Darkneſs unto Light; from Enmity,</l>
@@ -2134,7 +2135,7 @@ For thou our Souls haſt often viſited,</l>
                <l>Great Prince of Peace! Inſtruct our Souls to wait</l>
                <l>To be Eſtabliſh'd in this happy State;</l>
                <l>
-                  <pb n="71" facs="tcp:003191_0034_0FF016CCA6B85E68"/>
+                  <pb n="71" facs="unknown:003191_0034_0FF016CCA6B85E68"/>
 Where Joys abound, and Enmity does ceaſe,</l>
                <l>And Charity withal doth ſtill increaſe;</l>
                <l>That, with my dear Redeemed Ones, we may</l>
@@ -2173,7 +2174,7 @@ Where Joys abound, and Enmity does ceaſe,</l>
                <l>To ſeek their Prey: Yet by a ſacred Hand</l>
                <l>They're brought t'a happy Habitable Land.</l>
                <l>
-                  <pb n="72" facs="tcp:003191_0035_0FF016CE4E6BC5C0"/>
+                  <pb n="72" facs="unknown:003191_0035_0FF016CE4E6BC5C0"/>
 Methinks we're bound to ſay with one accord,</l>
                <l>Who, can enough admire thy Goodneſs Lord!</l>
                <l>O how can ſuch but much eſteem their Guide!</l>
@@ -2212,7 +2213,7 @@ Methinks we're bound to ſay with one accord,</l>
                </l>
                <l>And <hi>Life,</hi> but prize each other far above</l>
                <l>
-                  <pb n="73" facs="tcp:003191_0035_0FF016CE4E6BC5C0"/>
+                  <pb n="73" facs="unknown:003191_0035_0FF016CE4E6BC5C0"/>
 Outward Relations, yet rejoyce to ſee</l>
                <l>Them to partake of this bleſs'd Unity!</l>
                <l>Thus thou to me art now become more near</l>
@@ -2258,7 +2259,7 @@ Outward Relations, yet rejoyce to ſee</l>
                </closer>
             </div>
             <div type="poem">
-               <pb n="74" facs="tcp:003191_0036_0FF016D0ECCF7B38"/>
+               <pb n="74" facs="unknown:003191_0036_0FF016D0ECCF7B38"/>
                <head>The Sixth Epiſtle to Couſin <hi>F. R.</hi>
                </head>
                <l>CAN I but frequently remember thee,</l>
@@ -2299,7 +2300,7 @@ Outward Relations, yet rejoyce to ſee</l>
                <l>Of Heav'nly Things: Which bleſſed Privi<g ref="char:EOLhyphen"/>leuge,</l>
                <l>The Rage or Strength of Men can ne'er abridge</l>
                <l>
-                  <pb n="75" facs="tcp:003191_0036_0FF016D0ECCF7B38"/>
+                  <pb n="75" facs="unknown:003191_0036_0FF016D0ECCF7B38"/>
 Us of. Nor yet can I unmindful be</l>
                <l>O<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -2339,7 +2340,7 @@ Us of. Nor yet can I unmindful be</l>
                   <l>ALas, when my diſtreſſed Mind,</l>
                   <l>Thro' ſecret Drawings, is inclin'd,</l>
                   <l>
-                     <pb n="76" facs="tcp:003191_0037_0FF016D4C08DEFF0"/>
+                     <pb n="76" facs="unknown:003191_0037_0FF016D4C08DEFF0"/>
                      <hi>Great King!</hi> to wait on thee;</l>
                   <l>O how the ſubtil Enemy</l>
                   <l>Preſents fond Fancies, to entice aſide</l>
@@ -2376,7 +2377,7 @@ Us of. Nor yet can I unmindful be</l>
                   <l>Its Cries and Groans, and grant Relief.</l>
                </lg>
                <lg>
-                  <pb n="77" facs="tcp:003191_0037_0FF016D4C08DEFF0"/>
+                  <pb n="77" facs="unknown:003191_0037_0FF016D4C08DEFF0"/>
                   <l>Without thy Preſence all's in vain;</l>
                   <l>Alas! How long ſhall I complain?</l>
                   <l>The Cauſe of Grief is not trom thee.</l>
@@ -2415,7 +2416,7 @@ Us of. Nor yet can I unmindful be</l>
                   <l>My Life, my Joy, my Love,</l>
                   <l>If thus thou pleaſe to Prove</l>
                   <l>
-                     <pb n="78" facs="tcp:003191_0038_0FF016D65F2D04A0"/>
+                     <pb n="78" facs="unknown:003191_0038_0FF016D65F2D04A0"/>
 And Exerciſe my po<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>r pe<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -2467,7 +2468,7 @@ And Exerciſe my po<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <l>Touch'd with a ſenſe of our Infirmity.</l>
                </lg>
                <lg>
-                  <pb n="79" facs="tcp:003191_0038_0FF016D65F2D04A0"/>
+                  <pb n="79" facs="unknown:003191_0038_0FF016D65F2D04A0"/>
                   <l>Ah, let us ne'er forget,</l>
                   <l>When ſore beſet</l>
                   <l>
@@ -2522,7 +2523,7 @@ And Exerciſe my po<gap reason="illegible" resp="#PDCC" extent="1 letter">
                <l>O let thy holy Power operate</l>
                <l>Within thy Temple, thou Immaculate</l>
                <l>
-                  <pb n="80" facs="tcp:003191_0039_0FF016D7F432E270"/>
+                  <pb n="80" facs="unknown:003191_0039_0FF016D7F432E270"/>
 Holy, High-Prieſt! O let thy Hand prepare</l>
                <l>The Sacrifice! Then <hi>Iſr'el</hi> may not fear</l>
                <l>To find admittance to the Royal Throne;</l>
@@ -2554,7 +2555,7 @@ Holy, High-Prieſt! O let thy Hand prepare</l>
                <l>We're now thy Sons, <hi>Great King!</hi> but who can tell</l>
                <l>What we ſhall be hereafter, when we dwell</l>
                <l>
-                  <pb n="81" facs="tcp:003191_0039_0FF016D7F432E270"/>
+                  <pb n="81" facs="unknown:003191_0039_0FF016D7F432E270"/>
 With thee in Glory? Can the Hand of Man</l>
                <l>Meaſure the Fulneſs of the Ocean?</l>
                <l>Then may a Finite Engine teſtify</l>
@@ -2634,7 +2635,7 @@ With thee in Glory? Can the Hand of Man</l>
                      <desc>•</desc>
                   </gap>n Upright Heart kept clear from Spot or Stain:</l>
                <l>
-                  <pb n="82" facs="tcp:003191_0040_0FF016DA70CB8420"/>
+                  <pb n="82" facs="unknown:003191_0040_0FF016DA70CB8420"/>
 This both adorns the Gravity of Age,</l>
                <l>And doth in Blooming Years timely preſage</l>
                <l>A right Heroick Heart; where Liberty,</l>
@@ -2664,7 +2665,7 @@ This both adorns the Gravity of Age,</l>
                <l>Where fading Colours flouriſh not, and may</l>
                <l>Be term'd a <hi>Dow'r,</hi> whoſe Worth ſhall ne'er docay</l>
                <l>
-                  <pb n="83" facs="tcp:003191_0040_0FF016DA70CB8420"/>
+                  <pb n="83" facs="unknown:003191_0040_0FF016DA70CB8420"/>
 Sure Men, as Men, cannot forget to prize it;</l>
                <l>Tho' ſome, as brutes, not minding it diſpiſe it;</l>
                <l>Elſe would their Words and Geſture rarely be</l>
@@ -2697,7 +2698,7 @@ Sure Men, as Men, cannot forget to prize it;</l>
                <l>When'er he heard it; and 'twas worthily</l>
                <l>Recorded, to inſtruct Poſterity.</l>
                <l>
-                  <pb n="84" facs="tcp:003191_0041_0FF016DCF04A32A8"/>
+                  <pb n="84" facs="unknown:003191_0041_0FF016DCF04A32A8"/>
 For tho' the Dictates in each Humane Breaſt</l>
                <l>Would, if obſerv'd, teach all Men to deteſt</l>
                <l>Such Criminal Expreſſions, as declare</l>
@@ -2732,7 +2733,7 @@ For tho' the Dictates in each Humane Breaſt</l>
                <l>On whom the Curſe became thereby entail'd</l>
                <l>To after-Ages, but a Bleſſing ſeal'd</l>
                <l>
-                  <pb n="85" facs="tcp:003191_0041_0FF016DCF04A32A8"/>
+                  <pb n="85" facs="unknown:003191_0041_0FF016DCF04A32A8"/>
 To them, and to their Progeny whoſe, Name<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>
@@ -2767,7 +2768,7 @@ To them, and to their Progeny whoſe, Name<gap reason="illegible" resp="#PDCC" e
                <l>For Vertue's ſake to bear, that Reaſon may</l>
                <l>Be Re-enthorn'd, and Paſſion paſs away.</l>
                <l>
-                  <pb n="86" facs="tcp:003191_0042_0FEFD8B442684988"/>
+                  <pb n="86" facs="unknown:003191_0042_0FEFD8B442684988"/>
 Th' Examples, which the Ancients did affard</l>
                <l>Hereto, are many, left upon Record;</l>
                <l>For Civil Nature's dictates in each Breaſt,</l>
@@ -2808,7 +2809,7 @@ Th' Examples, which the Ancients did affard</l>
                   <l>Thine holy Pleaſure thus ſometimes to prove</l>
                </lg>
                <lg>
-                  <pb n="87" facs="tcp:003191_0042_0FEFD8B442684988"/>
+                  <pb n="87" facs="unknown:003191_0042_0FEFD8B442684988"/>
                   <l>Eſpecially when we</l>
                   <l>Have ſlighted thee,</l>
                   <l>Or to thine Enemy inclin'd,</l>
@@ -2845,7 +2846,7 @@ Th' Examples, which the Ancients did affard</l>
                   <l>At th' Poſts of Wiſdom's Gate,</l>
                   <l>In holy Fear! So to be found</l>
                   <l>
-                     <pb n="88" facs="tcp:003191_0043_0FF016E02628CC80"/>
+                     <pb n="88" facs="unknown:003191_0043_0FF016E02628CC80"/>
 Prepar'd to meet with thee</l>
                   <l>In true Sincerity,</l>
                   <l>In whoſe ſweet Preſence Heav'nly Joys abound.</l>
@@ -2891,7 +2892,7 @@ Prepar'd to meet with thee</l>
                <l>
                   <hi>Were left but him,</hi> there was <hi>Seven Thouſand</hi> more</l>
                <l>
-                  <pb n="89" facs="tcp:003191_0043_0FF016E02628CC80"/>
+                  <pb n="89" facs="unknown:003191_0043_0FF016E02628CC80"/>
 Preſerv'd alive, that only did adore</l>
                <l>The God of <hi>Jacob,</hi> would not bow the Knee</l>
                <l>Unto, or worſhip <hi>Baal</hi>'s falſe Deity.</l>
@@ -2924,7 +2925,7 @@ Preſerv'd alive, that only did adore</l>
                <l>His own, as with a bright Celeſtial Hoſt</l>
                <l>Of Seraphims. Let not the mighty boaſt</l>
                <l>
-                  <pb n="90" facs="tcp:003191_0044_0FF016E449354CC0"/>
+                  <pb n="90" facs="unknown:003191_0044_0FF016E449354CC0"/>
 Themſelves in Strength: <hi>Can Man reſiſt his Hand?</hi>
                </l>
                <l>The Thorns and renting Bryars then may ſtand</l>
@@ -2961,7 +2962,7 @@ Themſelves in Strength: <hi>Can Man reſiſt his Hand?</hi>
                      <desc>〈◊〉</desc>
                   </gap> Cruiſe of Oyl, ſhould never fail;</l>
                <l>
-                  <pb n="91" facs="tcp:003191_0044_0FF016E449354CC0"/>
+                  <pb n="91" facs="unknown:003191_0044_0FF016E449354CC0"/>
 Which ſhe believing, from the Holy Word,</l>
                <l>Liv'd to admire the Wonders of the Lord</l>
                <l>Upon her Son, whom, when depriv'd of <hi>Breath,</hi>
@@ -3056,7 +3057,7 @@ Which ſhe believing, from the Holy Word,</l>
                      <desc>•</desc>
                   </gap>hall Matters for poor Man! who, if he pleaſe,</l>
                <l>
-                  <pb n="92" facs="tcp:003191_0045_0FF016E5F4D87528"/>
+                  <pb n="92" facs="unknown:003191_0045_0FF016E5F4D87528"/>
 Can well ſupport, without the <hi>Strength of Bread</hi>
                </l>
                <l>As then he did that holy Prophet lead</l>
@@ -3135,7 +3136,7 @@ Can well ſupport, without the <hi>Strength of Bread</hi>
                      <desc>••</desc>
                   </gap>ithful to Death, they ſhall with Life be Crown'd</l>
                <l>
-                  <pb n="93" facs="tcp:003191_0045_0FF016E5F4D87528"/>
+                  <pb n="93" facs="unknown:003191_0045_0FF016E5F4D87528"/>
 For he delights to glority his Name</l>
                <l>Amidſt the Heathen: Therefore 'tis in vain</l>
                <l>For Men to Curſe whom he deſigns to Bleſs,</l>
@@ -3167,7 +3168,7 @@ For he delights to glority his Name</l>
                <l>Proper alone to Creatures Rational?</l>
                <l>To be preferr'd before thoſe Criminal</l>
                <l>
-                  <pb n="94" facs="tcp:003191_0046_0FF016E8471D8498"/>
+                  <pb n="94" facs="unknown:003191_0046_0FF016E8471D8498"/>
 Polluting Pleaſures, which do ſo incenſe</l>
                <l>The injur'd (if not ſeared) Conſcience,</l>
                <l>As much allays their preſent ſeeming Joys,</l>
@@ -3201,7 +3202,7 @@ Polluting Pleaſures, which do ſo incenſe</l>
                <l>'Tis ſoon expell'd, and baniſh'd from that Breaſt,</l>
                <l>Where Chaſtity hath taken up her Reſt:</l>
                <l>
-                  <pb n="95" facs="tcp:003191_0046_0FF016E8471D8498"/>
+                  <pb n="95" facs="unknown:003191_0046_0FF016E8471D8498"/>
 For here the <hi>Thoughts,</hi> the <hi>Words</hi> and <hi>Actions</hi> be</l>
                <l>Well ſeaſon'd, with an awful Gravity;</l>
                <l>The good Effects of an internal Law,</l>
@@ -3241,7 +3242,7 @@ For here the <hi>Thoughts,</hi> the <hi>Words</hi> and <hi>Actions</hi> be</l>
                <l>Who conquers <hi>Self,</hi> Vertue more Noble calls,</l>
                <l>Than he that overthrows the ſtrongeſt Walls:</l>
                <l>
-                  <pb n="96" facs="tcp:003191_0047_0FF016E9DB2B8160"/>
+                  <pb n="96" facs="unknown:003191_0047_0FF016E9DB2B8160"/>
 Then for the bluſhing Sex, what Tongue can tell</l>
                <l>The Infamy that on her Name ſhall dwell,</l>
                <l>That wants the Ornament of Chaſtity?</l>
@@ -3282,7 +3283,7 @@ Then for the bluſhing Sex, what Tongue can tell</l>
                   </gap>miſh'd Outward Caſe,</l>
                <l>Princely Deportment, Comely Grace,</l>
                <l>
-                  <pb n="97" facs="tcp:003191_0047_0FF016E9DB2B8160"/>
+                  <pb n="97" facs="unknown:003191_0047_0FF016E9DB2B8160"/>
 Might unto each obſervant Eye</l>
                <l>Denote the true Nobility</l>
                <l>Of an Heroick Heart and Mind,</l>
@@ -3319,7 +3320,7 @@ Might unto each obſervant Eye</l>
                <l>Much Honour'd, and eſteem'd by me.</l>
             </div>
             <div type="poem">
-               <pb n="98" facs="tcp:003191_0048_0FF016EC30BC8830"/>
+               <pb n="98" facs="unknown:003191_0048_0FF016EC30BC8830"/>
                <head>A Meditation.</head>
                <l>AH, Lord! Why hid'ſt thou now thy Face from me?</l>
                <l>My Soul expects no Comfort but from thee;</l>
@@ -3351,7 +3352,7 @@ Might unto each obſervant Eye</l>
                <l>Which ſecretly encourages to bear</l>
                <l>Theſe light Afflictions; for the Day draws near,</l>
                <l>
-                  <pb n="99" facs="tcp:003191_0048_0FF016EC30BC8830"/>
+                  <pb n="99" facs="unknown:003191_0048_0FF016EC30BC8830"/>
 Wherein ſhall be a Glory, (far tranſcending</l>
                <l>Theſe Griefs) reveal d, a Glory never ending:</l>
                <l>But, Lord, (ſupport me; there's no Trial can</l>
@@ -3385,7 +3386,7 @@ Wherein ſhall be a Glory, (far tranſcending</l>
                <l>Or any other Soul, that once hath fed</l>
                <l>On Manna-Delicates, or Angels Bread?</l>
                <l>
-                  <pb n="100" facs="tcp:003191_0049_0FF016EFA5A4E6E0"/>
+                  <pb n="100" facs="unknown:003191_0049_0FF016EFA5A4E6E0"/>
 Which even in the Deſart thou affords</l>
                <l>Abundantly, as Holy Writ records</l>
                <l>Thou didſt of Old: No, no, 'twas Penury</l>
@@ -3421,7 +3422,7 @@ Which even in the Deſart thou affords</l>
                <l>Which, with ſo ſine an Eſſence, gave it Birth,</l>
                <l>Out of the groſs dark Bowels of the Earth.</l>
                <l>
-                  <pb n="101" facs="tcp:003191_0049_0FF016EFA5A4E6E0"/>
+                  <pb n="101" facs="unknown:003191_0049_0FF016EFA5A4E6E0"/>
 If theſe familiar little Creatures be</l>
                <l>Such cauſe of Admiration, what may we</l>
                <l>Obſerve in this vaſt Concave of the Sky,</l>
@@ -3456,7 +3457,7 @@ If theſe familiar little Creatures be</l>
                </l>
                <l>And Wonders in the Earth, ordain'd and given</l>
                <l>
-                  <pb n="102" facs="tcp:003191_0050_0FF0173CB6AB48F8"/>
+                  <pb n="102" facs="unknown:003191_0050_0FF0173CB6AB48F8"/>
 For more ſublime Deſigns, that only be</l>
                <l>Look'd at, and gaz'd on, by Mortality?</l>
                <l>Did not the great Apoſtle once atteſt,</l>
@@ -3495,7 +3496,7 @@ For more ſublime Deſigns, that only be</l>
                <l>Its Earth-bred Luſtre; knowing how to uſe in,</l>
                <l>Nor hoarding it to ruſt, that's to abuſe it;</l>
                <l>
-                  <pb n="103" facs="tcp:003191_0050_0FF0173CB6AB48F8"/>
+                  <pb n="103" facs="unknown:003191_0050_0FF0173CB6AB48F8"/>
 That cannot for vile Pleaſures proſtitute</l>
                <l>The noble Soul to grovle with the Brure;</l>
                <l>That cannot be ſo bound to humane Faſhion,</l>
@@ -3530,7 +3531,7 @@ That cannot for vile Pleaſures proſtitute</l>
                </l>
                <l>Who ſtedfaſt to his Promiſe doth remain;</l>
                <l>
-                  <pb n="104" facs="tcp:003191_0051_0FEFD8C5168820A0"/>
+                  <pb n="104" facs="unknown:003191_0051_0FEFD8C5168820A0"/>
 And will perform it, tho' no Ear attend,</l>
                <l>To teſtify betwixt him and his Friend;</l>
                <l>Who, in great Multiplicity, can find</l>
@@ -3563,7 +3564,7 @@ And will perform it, tho' no Ear attend,</l>
                </closer>
             </div>
             <div type="poem">
-               <pb n="105" facs="tcp:003191_0051_0FEFD8C5168820A0"/>
+               <pb n="105" facs="unknown:003191_0051_0FEFD8C5168820A0"/>
                <head>An Epiſtle to <hi>M. R.</hi>
                </head>
                <l>THis Opportunity did me invite,</l>
@@ -3598,7 +3599,7 @@ And will perform it, tho' no Ear attend,</l>
                <l>From Jeſus Chriſt, his high eſteemed Lord,</l>
                <l>For <hi>Iſr'elites,</hi> to whom the Heavenly Word,</l>
                <l>
-                  <pb n="106" facs="tcp:003191_0052_0FEFD8C87A6785D8"/>
+                  <pb n="106" facs="unknown:003191_0052_0FEFD8C87A6785D8"/>
 The Promiſes and Law, did appertain,</l>
                <l>The People unto whom the Cov'nants came,</l>
                <l>His Kindred in the Fleſh? Then how can I</l>
@@ -3633,7 +3634,7 @@ The Promiſes and Law, did appertain,</l>
                <l>Aim'ſt thou at Honour? Know, a ſudden Puff</l>
                <l>Elaſts it, and often leaves a Stinking Snuff.</l>
                <l>
-                  <pb n="107" facs="tcp:003191_0052_0FEFD8C87A6785D8"/>
+                  <pb n="107" facs="unknown:003191_0052_0FEFD8C87A6785D8"/>
 Ah, ſee'ſt thou not, that here all vain Renown</l>
                <l>Is daſh'd and diſannulled with a Frown;</l>
                <l>Seek Honour from above, and fear the Lord,</l>
@@ -3667,7 +3668,7 @@ Ah, ſee'ſt thou not, that here all vain Renown</l>
                <l>The Doer of the Word is Juſtify'd,</l>
                <l>Becauſe he by the ſame is Sanctify'd.</l>
                <l>
-                  <pb n="108" facs="tcp:003191_0053_0FEFD8CA5F5214E8"/>
+                  <pb n="108" facs="unknown:003191_0053_0FEFD8CA5F5214E8"/>
 Slight not the <hi>day of ſmall things,</hi> left there be</l>
                <l>Greater with-holden and conceal'd from thee.</l>
                <l>Was it not ſaid, when <hi>Ephr'im</hi> was a Child,</l>
@@ -3706,7 +3707,7 @@ Slight not the <hi>day of ſmall things,</hi> left there be</l>
                   <l>Yet herein doth a Myſtick Grandeur lie,</l>
                   <l>He hath a Nobler Part can never dye.</l>
                   <l>
-                     <pb n="109" facs="tcp:003191_0053_0FEFD8CA5F5214E8"/>
+                     <pb n="109" facs="unknown:003191_0053_0FEFD8CA5F5214E8"/>
 Altho' remov'd from Converſe with his Friend;</l>
                   <l>Relations and Acquaintance, are depriv'd</l>
                   <l>Of his Society, Words can't extend</l>
@@ -3739,7 +3740,7 @@ Altho' remov'd from Converſe with his Friend;</l>
                   <l>With Tears, ſo he with the Chaſtiz'd did grieve.</l>
                </lg>
                <lg>
-                  <pb n="110" facs="tcp:003191_0054_0FF016F139A67BE0"/>
+                  <pb n="110" facs="unknown:003191_0054_0FF016F139A67BE0"/>
                   <l>This dear Paternal Love did more engage</l>
                   <l>His Childrens Hearts, than here may be ex<g ref="char:EOLhyphen"/>preſt,</l>
                   <l>Alluring (as it were) our tender Age</l>
@@ -3773,7 +3774,7 @@ Altho' remov'd from Converſe with his Friend;</l>
                   <l>The ſacred Precepts of the bleſſed Truth</l>
                   <l>Began to ſpring up in his Blooming Youth.</l>
                   <l>
-                     <pb n="111" facs="tcp:003191_0054_0FF016F139A67BE0"/>
+                     <pb n="111" facs="unknown:003191_0054_0FF016F139A67BE0"/>
 So that for all the Favours he receiv'd</l>
                   <l>From that Relation, or great hopes of more,</l>
                   <l>By promiſe due, he would not be deceiv'd</l>
@@ -3806,7 +3807,7 @@ So that for all the Favours he receiv'd</l>
                   <l>She had her ſhare, and found it in the end.</l>
                </lg>
                <lg>
-                  <pb n="112" facs="tcp:003191_0055_0FF016F3ABFAE940"/>
+                  <pb n="112" facs="unknown:003191_0055_0FF016F3ABFAE940"/>
                   <l>Nor may her dear Affection be forgot</l>
                   <l>Unto her Off-ſpring, whom ſhe taught the Law</l>
                   <l>Of Filial Duty; yet delighted not</l>
@@ -3839,7 +3840,7 @@ So that for all the Favours he receiv'd</l>
                   <l>Than from a angry Breaſt can ever grow.</l>
                </lg>
                <lg>
-                  <pb n="113" facs="tcp:003191_0055_0FF016F3ABFAE940"/>
+                  <pb n="113" facs="unknown:003191_0055_0FF016F3ABFAE940"/>
                   <l>Well, tho' both He and She be gone to reſt,</l>
                   <l>And cannot with our Sorrows now be mov'd,</l>
                   <l>Nor with the <hi>Frownings of this World</hi> oppreſs'd,</l>
@@ -3877,7 +3878,7 @@ So that for all the Favours he receiv'd</l>
                   <l>Then, tho' with Grief I may conſeſs,</l>
                   <l>In Winter-time th' Effects be leſs,</l>
                   <l>
-                     <pb n="114" facs="tcp:003191_0056_0FF016F64D45B098"/>
+                     <pb n="114" facs="unknown:003191_0056_0FF016F64D45B098"/>
 Becauſe of Diſtance, or cold Air</l>
                   <l>Prevailing in our Hemiſphere,</l>
                   <l>And interpoſing (For Sol's Pow'r</l>
@@ -3912,7 +3913,7 @@ Becauſe of Diſtance, or cold Air</l>
                <l>But all things ſhall (as left upon Record)</l>
                <l>Convene for good to them that fear the Lord</l>
                <l>
-                  <pb n="115" facs="tcp:003191_0056_0FF016F64D45B098"/>
+                  <pb n="115" facs="unknown:003191_0056_0FF016F64D45B098"/>
 Some latent cauſe, from Carnal Eye conceal'd,</l>
                <l>May bring a Satisfaction, when reveal'd</l>
                <l>By that refulgent Light; whoſe ſacred Ray</l>
@@ -3974,7 +3975,7 @@ Some latent cauſe, from Carnal Eye conceal'd,</l>
                      <desc>〈◊〉</desc>
                   </gap>! this is He alone to be deſir'd.</l>
                <l>
-                  <pb n="116" facs="tcp:003191_0057_0FF016F825120168"/>
+                  <pb n="116" facs="unknown:003191_0057_0FF016F825120168"/>
 Therefore contend not in the Carnal Will,</l>
                <l>Tread Self-hood under Foot, <hi>wateh</hi> and be <hi>ſtill</hi>
                </l>
@@ -4040,7 +4041,7 @@ Therefore contend not in the Carnal Will,</l>
                <l>Retreſhing Show'rs, or early Dews? O ſee</l>
                <l>Why thus it ſeems to droop! Why ſhould</l>
                <l>
-                  <pb n="117" facs="tcp:003191_0057_0FF016F825120168"/>
+                  <pb n="117" facs="unknown:003191_0057_0FF016F825120168"/>
 So long neglected? It may ſprout again</l>
                <l>If cheriſhed with firſt and latter Rain;</l>
                <l>Which <hi>Bounteous Heav'n</hi> will not too long deny,</l>
@@ -4076,7 +4077,7 @@ So long neglected? It may ſprout again</l>
                   <hi>Iniquities abound, when Love grows cold.</hi>
                </l>
                <l>
-                  <pb n="118" facs="tcp:003191_0058_0FF016FAB44B6F98"/>
+                  <pb n="118" facs="unknown:003191_0058_0FF016FAB44B6F98"/>
 Now, tho' thy ſilent Pen doth teſtify,</l>
                <l>There's ſome (yet latent) Cauſe of Jealouſie:</l>
                <l>I'll not my Rival envy, if it be</l>
@@ -4111,7 +4112,7 @@ Now, tho' thy ſilent Pen doth teſtify,</l>
                <l>One Time look'd out, t'obſerve and take a View</l>
                <l>Of ſome ſtrange Plants, which in the High-way grew,</l>
                <l>
-                  <pb n="119" facs="tcp:003191_0058_0FF016FAB44B6F98"/>
+                  <pb n="119" facs="unknown:003191_0058_0FF016FAB44B6F98"/>
 To her a Scarlet Poppy then reſorted,</l>
                <l>And with fine Accademick Phraſes courted;</l>
                <l>Yea, did with florid Subtilty invade</l>
@@ -4151,7 +4152,7 @@ To her a Scarlet Poppy then reſorted,</l>
                   </l>
                   <l>What can its Joys controul?</l>
                   <l>
-                     <pb n="120" facs="tcp:003191_0059_0FF016FD64311360"/>
+                     <pb n="120" facs="unknown:003191_0059_0FF016FD64311360"/>
 Tumults and Noiſe may not intrude,</l>
                   <l>To interrupt the Soul</l>
                </lg>
@@ -4193,7 +4194,7 @@ Tumults and Noiſe may not intrude,</l>
                   <l>The Wonders of the Rock.</l>
                </lg>
                <lg>
-                  <pb n="121" facs="tcp:003191_0059_0FF016FD64311360"/>
+                  <pb n="121" facs="unknown:003191_0059_0FF016FD64311360"/>
                   <l>So Heav'n's high honour'd Favourite,</l>
                   <l>Did often chuſe to dwell</l>
                   <l>Leſs for a Refuge, than Delight</l>
@@ -4234,7 +4235,7 @@ Tumults and Noiſe may not intrude,</l>
                   <l>But conſolates the Soul and Mind,</l>
                   <l>As with a ſweet Repoſe,</l>
                   <l>
-                     <pb n="122" facs="tcp:003191_0060_0FF016FFF2BD6528"/>
+                     <pb n="122" facs="unknown:003191_0060_0FF016FFF2BD6528"/>
 Which here, as from its Droſs refin'd,</l>
                   <l>Participates of thoſe</l>
                </lg>
@@ -4280,7 +4281,7 @@ Which here, as from its Droſs refin'd,</l>
                   <l>From Immortality.</l>
                </lg>
                <lg>
-                  <pb n="123" facs="tcp:003191_0060_0FF016FFF2BD6528"/>
+                  <pb n="123" facs="unknown:003191_0060_0FF016FFF2BD6528"/>
                   <l>The glorious Joys of Seraphims;</l>
                   <l>For which each daily ſings</l>
                   <l>High Praiſes, and melodious Hymns,</l>
@@ -4316,7 +4317,7 @@ Which here, as from its Droſs refin'd,</l>
                </l>
                <l>Whereby we long for thee, when thou retires</l>
                <l>
-                  <pb n="124" facs="tcp:003191_0061_0FF017019CBAB4B0"/>
+                  <pb n="124" facs="unknown:003191_0061_0FF017019CBAB4B0"/>
 To thy Pavilion, to thy ſecret Place;</l>
                <l>So that we reſt not, till we ſee thy Face:</l>
                <l>For thou alone prepares true Reſt for thine;</l>
@@ -4355,7 +4356,7 @@ To thy Pavilion, to thy ſecret Place;</l>
                <l>On wrecking Rocks, or quick-devouring Sands</l>
                <l>Or caſt as Captives on ſome foreign Lands,</l>
                <l>
-                  <pb n="125" facs="tcp:003191_0061_0FF017019CBAB4B0"/>
+                  <pb n="125" facs="unknown:003191_0061_0FF017019CBAB4B0"/>
 To ſpend their wretched Days in Miſery,</l>
                <l>Inſtead of what they ſought for to enjoy,</l>
                <l>Abounding Wealth, if to their wiſhed Shore</l>
@@ -4393,7 +4394,7 @@ To ſpend their wretched Days in Miſery,</l>
                <l>Thoſe hazard Life for tranſitory Toys;</l>
                <l>And ſhall not theſe, for everlaſting Joys,</l>
                <l>
-                  <pb n="126" facs="tcp:003191_0062_0FF01705335EF0A0"/>
+                  <pb n="126" facs="unknown:003191_0062_0FF01705335EF0A0"/>
 Reſign up Viſibles, yea, Life and all,</l>
                <l>To him that gave it, if he pleaſe to call</l>
                <l>To ſuch a Trial? Can we baulk the Way</l>
@@ -4427,7 +4428,7 @@ Reſign up Viſibles, yea, Life and all,</l>
                <l>Yet ſhall they not have Peace, but feel the Rod</l>
                <l>Of a diſpleaſed, of a jealous GOD;</l>
                <l>
-                  <pb n="127" facs="tcp:003191_0062_0FF01705335EF0A0"/>
+                  <pb n="127" facs="unknown:003191_0062_0FF01705335EF0A0"/>
 Whoſe Word can never fail, altho' he try</l>
                <l>Some with Long-ſuffering, and great Clemency.</l>
                <l>Ah, kiſs the Son, leſt that his Anger be</l>
@@ -4476,7 +4477,7 @@ Whoſe Word can never fail, altho' he try</l>
                      <hi>Deep Sighs and Groans, as well as louder Prayers;</hi>
                   </l>
                   <l>
-                     <pb n="128" facs="tcp:003191_0063_0FF01706CFFE0A38"/>
+                     <pb n="128" facs="unknown:003191_0063_0FF01706CFFE0A38"/>
                      <hi>But indiſcreetly thus thy ſelf expoſe</hi>
                   </l>
                   <l>
@@ -4515,7 +4516,7 @@ Whoſe Word can never fail, altho' he try</l>
                   <l>Was able to preſerve him from the Paws</l>
                   <l>Of thoſe Devourers, and their rav'nous Jaws:</l>
                   <l>
-                     <pb n="129" facs="tcp:003191_0063_0FF01706CFFE0A38"/>
+                     <pb n="129" facs="unknown:003191_0063_0FF01706CFFE0A38"/>
 Whereof, when <hi>Babel</hi>'s King was ſatisfy'd</l>
                   <l>By <hi>Daniel</hi>'s Anſwer, who the<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
@@ -4549,7 +4550,7 @@ Whereof, when <hi>Babel</hi>'s King was ſatisfy'd</l>
                   <l>Yet honours them in higher Place, that be</l>
                   <l>Free to encounters Dangers cheerfully.</l>
                   <l>
-                     <pb n="130" facs="tcp:003191_0064_0FF0170A2D5168F0"/>
+                     <pb n="130" facs="unknown:003191_0064_0FF0170A2D5168F0"/>
 And tho' proud <hi>Gog</hi> and <hi>Magog</hi> arm for Fight,</l>
                   <l>
                      <hi>Deſtruction</hi> from his <hi>Sword</hi> ſhall ſtop their <hi>Flight:</hi>
@@ -4587,7 +4588,7 @@ And tho' proud <hi>Gog</hi> and <hi>Magog</hi> arm for Fight,</l>
                   <l>Altho' thro' Tribulations <hi>Iſrael</hi> muſt</l>
                   <l>Enter the promis'd Land, yet Heaven is juſt,</l>
                   <l>
-                     <pb n="131" facs="tcp:003191_0064_0FF0170A2D5168F0"/>
+                     <pb n="131" facs="unknown:003191_0064_0FF0170A2D5168F0"/>
 And tenderly ſupports his patient Ones,</l>
                   <l>Altho' he chaſten his Beloved Sons;</l>
                   <l>And tho' in Priſons outwardly they be</l>
@@ -4620,7 +4621,7 @@ And tenderly ſupports his patient Ones,</l>
                   <l>Of ſuch as, for his Name, in Priſon lye;</l>
                   <l>And fill their Hearts with everlaſting Joy</l>
                   <l>
-                     <pb n="132" facs="tcp:003191_0065_0FF0170BE23E9DE8"/>
+                     <pb n="132" facs="unknown:003191_0065_0FF0170BE23E9DE8"/>
 Theſe rugged Walls, leſs grievous are to me,</l>
                   <l>Than thoſe bedeck'd with curious Arras Be</l>
                   <l>T' a guilty Conſcience; to a wounded Heart,</l>
@@ -4660,7 +4661,7 @@ Theſe rugged Walls, leſs grievous are to me,</l>
                      </gap>na Moment; and upon the Wave,</l>
                   <l>Teach his to walk, and by his Preſence ſave</l>
                   <l>
-                     <pb n="133" facs="tcp:003191_0065_0FF0170BE23E9DE8"/>
+                     <pb n="133" facs="unknown:003191_0065_0FF0170BE23E9DE8"/>
 From ſinking, as of old: His Arm's the ſame,</l>
                   <l>Eternal Praiſes to his holy Name.</l>
                   <l>He is our Shield, our Sun, that penetrates</l>
@@ -4706,7 +4707,7 @@ From ſinking, as of old: His Arm's the ſame,</l>
                   <l>Of the dear Int'reſt which in thee I hold;</l>
                </lg>
                <lg>
-                  <pb n="134" facs="tcp:003191_0066_0FF0170F61C032A0"/>
+                  <pb n="134" facs="unknown:003191_0066_0FF0170F61C032A0"/>
                   <l>Surpaſſing that of Conſanguinity,</l>
                   <l>Which ſcarce obliges, but in Complements;</l>
                   <l>But Cordial Friendſhip's laſting Unity,</l>
@@ -4749,7 +4750,7 @@ From ſinking, as of old: His Arm's the ſame,</l>
                   <l>T' inſult o'er thoſe ta'en in Captivity.</l>
                </lg>
                <lg>
-                  <pb n="135" facs="tcp:003191_0066_0FF0170F61C032A0"/>
+                  <pb n="135" facs="unknown:003191_0066_0FF0170F61C032A0"/>
                   <l>But tho' thou can'ſt not totally redreſs</l>
                   <l>Such Expectation, as ſome ſeem to have,</l>
                   <l>Yet by a prudent Mein and Gentleneſs,</l>
@@ -4796,7 +4797,7 @@ From ſinking, as of old: His Arm's the ſame,</l>
                   <l>But this, before her Vanities, preferr'd:</l>
                </lg>
                <lg>
-                  <pb n="136" facs="tcp:003191_0067_0FF017111D195358"/>
+                  <pb n="136" facs="unknown:003191_0067_0FF017111D195358"/>
                   <l>So things that once ſeem'd difficult, became</l>
                   <l>More eaſie; and the glorious ſhining Light,</l>
                   <l>That firſt but glimmer'd in the dark, the ſame</l>
@@ -4834,7 +4835,7 @@ From ſinking, as of old: His Arm's the ſame,</l>
                <l>But 'tis ſupposd of ſuch ſweet Innocence,</l>
                <l>Of ſo Divine and Sacred Influence,</l>
                <l>
-                  <pb n="137" facs="tcp:003191_0067_0FF017111D195358"/>
+                  <pb n="137" facs="unknown:003191_0067_0FF017111D195358"/>
 When it doth in true tender Hearts prevail,</l>
                <l>That when occurrent Troubles would aſſail,</l>
                <l>It guards, as doth a Bulwark, either Breaſt,</l>
@@ -4872,7 +4873,7 @@ When it doth in true tender Hearts prevail,</l>
                <l>But 'tis the King's Decree, and then who dare</l>
                <l>Reſiſt, but ſuch as do a Greater fear?</l>
                <l>
-                  <pb n="138" facs="tcp:003191_0068_0FF01713E0109670"/>
+                  <pb n="138" facs="unknown:003191_0068_0FF01713E0109670"/>
 The Sentence is, <hi>The Fiery Furnace muſt</hi>
                </l>
                <l>
@@ -4917,7 +4918,7 @@ The Sentence is, <hi>The Fiery Furnace muſt</hi>
                <l>In Awe to none but him, and fear not Man;</l>
                <l>But dread the living God, who only can</l>
                <l>
-                  <pb n="139" facs="tcp:003191_0068_0FF01713E0109670"/>
+                  <pb n="139" facs="unknown:003191_0068_0FF01713E0109670"/>
 Kill and deſtroy, or ſave and keep alive;</l>
                <l>For He to Man doth Life and Being give.</l>
                <l>This they believing, did not ſtudy how</l>
@@ -4959,7 +4960,7 @@ Kill and deſtroy, or ſave and keep alive;</l>
                <l>The God of <hi>Iſrael;</hi> ſet his Servants free,</l>
                <l>That, truſting in him, would not bow the Knee</l>
                <l>
-                  <pb n="140" facs="tcp:003191_0069_0FF01715AC6328C0"/>
+                  <pb n="140" facs="unknown:003191_0069_0FF01715AC6328C0"/>
 Unto, or ſerve another, than the Lord,</l>
                <l>Their only God; but, as with one accord,</l>
                <l>Did yield their Bodies to his Will, that they</l>
@@ -4994,7 +4995,7 @@ Unto, or ſerve another, than the Lord,</l>
                <l>And triumph over all her Enemies.</l>
             </div>
             <div type="poem">
-               <pb n="141" facs="tcp:003191_0069_0FF01715AC6328C0"/>
+               <pb n="141" facs="unknown:003191_0069_0FF01715AC6328C0"/>
                <head>The Concluſion of a Letter to Couſin <hi>F.R.</hi>
                </head>
                <l>NE'er let the Proſpect of a great Eſtate</l>
@@ -5027,7 +5028,7 @@ Unto, or ſerve another, than the Lord,</l>
                <l>LET us, my Friend, all peeviſh Self withſtand,</l>
                <l>And in the Meekneſs of the ſpotleſs Lamb,</l>
                <l>
-                  <pb n="142" facs="tcp:003191_0070_0FF01719ECDB6DD0"/>
+                  <pb n="142" facs="unknown:003191_0070_0FF01719ECDB6DD0"/>
 Lead one another gently by the Hand,</l>
                <l>And travel forward to the Holy Land,</l>
                <l>Where the Redeemed, on <hi>Mount Sion</hi> ſtand,</l>
@@ -5061,7 +5062,7 @@ Lead one another gently by the Hand,</l>
                <l>My ſelf as one of thoſe dry ſenſeleſs Bones,</l>
                <l>Which lay in th' open Valley, which thou once</l>
                <l>
-                  <pb n="143" facs="tcp:003191_0070_0FF01719ECDB6DD0"/>
+                  <pb n="143" facs="unknown:003191_0070_0FF01719ECDB6DD0"/>
 Did'ſt ſhew thy Prophet, all exceeding dry,</l>
                <l>Until thou pleas'd to caſt a tender Eye</l>
                <l>Of Pity on them, and the Anſwer give</l>
@@ -5098,7 +5099,7 @@ Did'ſt ſhew thy Prophet, all exceeding dry,</l>
                   <l>Their Pleaſures from a Living Spring.</l>
                </lg>
                <lg>
-                  <pb n="144" facs="tcp:003191_0071_0FF0171C3B33CAD0"/>
+                  <pb n="144" facs="unknown:003191_0071_0FF0171C3B33CAD0"/>
                   <l>Yet have I ſeen a pretty Well,</l>
                   <l>Deriv'd from Showers of Rain,</l>
                   <l>Which into Nature's Ciſtern fell,</l>
@@ -5134,7 +5135,7 @@ Did'ſt ſhew thy Prophet, all exceeding dry,</l>
                   <l>True Friendſhip, that from Vertue ſprings,</l>
                   <l>Doth ſo enlarge the Mind,</l>
                   <l>
-                     <pb n="145" facs="tcp:003191_0071_0FF0171C3B33CAD0"/>
+                     <pb n="145" facs="unknown:003191_0071_0FF0171C3B33CAD0"/>
 It cannot be block'd up with things</l>
                   <l>Of ſuch a ſervile Kind,</l>
                   <l>As makes dull Miſers fret and rage</l>
@@ -5170,7 +5171,7 @@ It cannot be block'd up with things</l>
                   <l>Thus they for Traſh deſpiſe</l>
                </lg>
                <lg>
-                  <pb n="146" facs="tcp:003191_0072_0FF0171F6F1DD420"/>
+                  <pb n="146" facs="unknown:003191_0072_0FF0171F6F1DD420"/>
                   <l>That Treaſure, which no Thief can ſteal,</l>
                   <l>No Canker-worm, nor Ruſt</l>
                   <l>Can e'er corrupt: And 'tis by Seal</l>
@@ -5210,7 +5211,7 @@ It cannot be block'd up with things</l>
                   <l>Then why ſhould Men unmindful be</l>
                   <l>Of their more Noble Part,</l>
                   <l>
-                     <pb n="147" facs="tcp:003191_0072_0FF0171F6F1DD420"/>
+                     <pb n="147" facs="unknown:003191_0072_0FF0171F6F1DD420"/>
 The Offspring of Eternity,</l>
                   <l>As wholly to invert</l>
                </lg>
@@ -5251,7 +5252,7 @@ The Offspring of Eternity,</l>
                   <l>Yet ſhall the Hungry eat,</l>
                </lg>
                <lg>
-                  <pb n="148" facs="tcp:003191_0073_0FF017210597DAB0"/>
+                  <pb n="148" facs="unknown:003191_0073_0FF017210597DAB0"/>
                   <l>Till ſatisfy'd, and with Delight,</l>
                   <l>Walk on in Wiſdom's Way;</l>
                   <l>Knowing the Light expels the Night,</l>
@@ -5289,7 +5290,7 @@ The Offspring of Eternity,</l>
                </lg>
             </div>
             <div type="poem">
-               <pb n="149" facs="tcp:003191_0073_0FF017210597DAB0"/>
+               <pb n="149" facs="unknown:003191_0073_0FF017210597DAB0"/>
                <head>Of a Happy Life.</head>
                <l>SHall we exclude from a ſedate,</l>
                <l>Sweet, happy and contented State?</l>
@@ -5324,7 +5325,7 @@ The Offspring of Eternity,</l>
                <l>He's always ready for a Change.</l>
             </div>
             <div type="poem">
-               <pb n="150" facs="tcp:003191_0074_0FF0172385AA9F60"/>
+               <pb n="150" facs="unknown:003191_0074_0FF0172385AA9F60"/>
                <head>On <hi>David</hi> and <hi>Jonathan.</hi>
                </head>
                <l>ARE learned Pens ſolicitous to expreſs</l>
@@ -5356,7 +5357,7 @@ The Offspring of Eternity,</l>
                <l>But O his brave Heroick Soul diſdain'd</l>
                <l>Ignoble Projects; yea, a Crown ſo ſtain'd</l>
                <l>
-                  <pb n="151" facs="tcp:003191_0074_0FF0172385AA9F60"/>
+                  <pb n="151" facs="unknown:003191_0074_0FF0172385AA9F60"/>
 With Breach of Friendſhip! Ah, how did he plead</l>
                <l>With furious <hi>Saul,</hi> and nobly interceed</l>
                <l>For abſent <hi>David,</hi> till he did provoke</l>
@@ -5392,7 +5393,7 @@ With Breach of Friendſhip! Ah, how did he plead</l>
                   <hi>Mephiboſheth,</hi> tho' <hi>Saul</hi>'s Poſterity,</l>
                <l>(<hi>Saul's,</hi> that was of ſuch noted Enmity</l>
                <l>
-                  <pb n="152" facs="tcp:003191_0075_0FF01726A18807B8"/>
+                  <pb n="152" facs="unknown:003191_0075_0FF01726A18807B8"/>
 To <hi>David</hi>) being Son to <hi>Jonathan</hi>
                </l>
                <l>Muſt dwell at Court, the King will entertain</l>
@@ -5426,7 +5427,7 @@ To <hi>David</hi>) being Son to <hi>Jonathan</hi>
                <l>Immortal Fame in each ſucceeding Age.</l>
             </div>
             <div type="poem">
-               <pb n="153" facs="tcp:003191_0075_0FF01726A18807B8"/>
+               <pb n="153" facs="unknown:003191_0075_0FF01726A18807B8"/>
                <head>On Modeſty and Chaſtity.</head>
                <l>O How is this luxurious World beguil'd!</l>
                <l>That <hi>Spotleſs Modeſty</hi> ſeems quite exil'd;</l>
@@ -5457,7 +5458,7 @@ To <hi>David</hi>) being Son to <hi>Jonathan</hi>
                <l>Then why ſhould either Sex claim Liberty,</l>
                <l>Beyond the Confines of ſweet Modeſty?</l>
                <l>
-                  <pb n="154" facs="tcp:003191_0076_0FF01729F03C4828"/>
+                  <pb n="154" facs="unknown:003191_0076_0FF01729F03C4828"/>
 It ſeaſons Words, and fairly regulates</l>
                <l>Deportment, both to High and Low Eſtates:</l>
                <l>It crowns the Man with Comelineſs: But ſhe</l>
@@ -5500,7 +5501,7 @@ It ſeaſons Words, and fairly regulates</l>
                   <l>Great Spring of Light! O teach me fervently</l>
                </lg>
                <lg>
-                  <pb n="155" facs="tcp:003191_0076_0FF01729F03C4828"/>
+                  <pb n="155" facs="unknown:003191_0076_0FF01729F03C4828"/>
                   <l>To wait for thee! whoſe Love is ſtill inclin'd</l>
                   <l>To favour <hi>Iſrael</hi>'s Seed, whoſe Heart and Mind</l>
                   <l>Is unto thee unfeignedly reſign'd.</l>
@@ -5532,7 +5533,7 @@ It ſeaſons Words, and fairly regulates</l>
                </lg>
             </div>
             <div type="poem">
-               <pb n="156" facs="tcp:003191_0077_0FF0172CB4188C40"/>
+               <pb n="156" facs="unknown:003191_0077_0FF0172CB4188C40"/>
                <head>On <hi>Solomon's</hi> Requeſts.</head>
                <lg>
                   <l>GReat <hi>Solomon,</hi> t' whom Heav'n was pleas'd to give</l>
@@ -5567,7 +5568,7 @@ It ſeaſons Words, and fairly regulates</l>
                   <l>Mercy and Juſtice with impartial Hand:</l>
                </lg>
                <lg>
-                  <pb n="157" facs="tcp:003191_0077_0FF0172CB4188C40"/>
+                  <pb n="157" facs="unknown:003191_0077_0FF0172CB4188C40"/>
                   <l>Therefore a Terror only unto them,</l>
                   <l>Whoſe Acts and Deeds are own, but <gap reason="illegible" resp="#PDCC" extent="3 letters">
                         <desc>•••</desc>
@@ -5634,7 +5635,7 @@ It ſeaſons Words, and fairly regulates</l>
                </lg>
             </div>
             <div type="poem">
-               <pb n="158" facs="tcp:003191_0078_0FF0172F43D863E8"/>
+               <pb n="158" facs="unknown:003191_0078_0FF0172F43D863E8"/>
                <head>A MEDITATION.</head>
                <l>O Who would <hi>think</hi> all <hi>outward Foes</hi> might be</l>
                <l>
@@ -5663,7 +5664,7 @@ It ſeaſons Words, and fairly regulates</l>
                <l>To thee, with a free, fervent, humble Mind.</l>
             </div>
             <div type="poem">
-               <pb n="159" facs="tcp:003191_0078_0FF0172F43D863E8"/>
+               <pb n="159" facs="unknown:003191_0078_0FF0172F43D863E8"/>
                <head>Contemplation.</head>
                <lg>
                   <l>GReat Prince of Peace! When I incline</l>
@@ -5700,7 +5701,7 @@ It ſeaſons Words, and fairly regulates</l>
                   <l>Unto the humble holy Child of Peace.</l>
                </lg>
                <lg>
-                  <pb n="160" facs="tcp:003191_0079_0FF01730F7D430C8"/>
+                  <pb n="160" facs="unknown:003191_0079_0FF01730F7D430C8"/>
                   <l>Mark how the Tape's feeble Light,</l>
                   <l>With Glimm'ring Ray,</l>
                   <l>Gilds as it were the Shades of Night,</l>
@@ -5743,7 +5744,7 @@ It ſeaſons Words, and fairly regulates</l>
                   <l>Who can but long, with ſtrong deſire,</l>
                   <l>For ſuch Delight!</l>
                   <l>
-                     <pb n="161" facs="tcp:003191_0079_0FF01730F7D430C8"/>
+                     <pb n="161" facs="unknown:003191_0079_0FF01730F7D430C8"/>
 This is the Light of Life, fades not away,</l>
                   <l>But ſhines more bright unto the perfect Day.</l>
                </lg>
@@ -5779,7 +5780,7 @@ This is the Light of Life, fades not away,</l>
                   <l>Then freely they unboſom their Requeſts,</l>
                   <l>And treaſure Secrets in each others Breaſts,</l>
                   <l>
-                     <pb n="162" facs="tcp:003191_0080_0FF017337B30AA08"/>
+                     <pb n="162" facs="unknown:003191_0080_0FF017337B30AA08"/>
 As in firm Cabinets, cloſe lock'd, where none</l>
                   <l>Can find the Key, but only each his own.</l>
                   <l>Is one oppreſs'd with Grief? He lays a Share</l>
@@ -5810,7 +5811,7 @@ As in firm Cabinets, cloſe lock'd, where none</l>
                   <l>Surely, becauſe ſuch do not rightly know</l>
                   <l>That innate Spring which makes true <hi>Friend<g ref="char:EOLhyphen"/>ſhip</hi> grow:</l>
                   <l>
-                     <pb n="163" facs="tcp:003191_0080_0FF017337B30AA08"/>
+                     <pb n="163" facs="unknown:003191_0080_0FF017337B30AA08"/>
 For this, by Covenant, doth ſo engage</l>
                   <l>Their noble Hearts, that no <hi>Self-wounding Rage,</hi>
                   </l>
@@ -5846,7 +5847,7 @@ For this, by Covenant, doth ſo engage</l>
                   <l>Thereby increaſe, do frequently expoſe</l>
                   <l>Themſelves, as a Deriſion to their Foes.</l>
                   <l>
-                     <pb n="164" facs="tcp:003191_0081_0FF0173536920FF0"/>
+                     <pb n="164" facs="unknown:003191_0081_0FF0173536920FF0"/>
 True Cordial Friends, without Offence, can bear</l>
                   <l>Kind Admenition, tho' it be ſevere.</l>
                   <l>The faithful <hi>Wounds of Friends</hi> are like Inciſion,</l>
@@ -5879,7 +5880,7 @@ True Cordial Friends, without Offence, can bear</l>
                   <l>While either <hi>Frimas</hi> remains; for <hi>Friendſhip</hi> muſt</l>
                   <l>Tho' one be ſeparated unto Duſt</l>
                   <l>
-                     <pb n="165" facs="tcp:003191_0081_0FF0173536920FF0"/>
+                     <pb n="165" facs="unknown:003191_0081_0FF0173536920FF0"/>
 If poor <hi>Mephiboſheth</hi> ſurvive, extend</l>
                   <l>To the Poſterity and Name of Friend;</l>
                   <l>Elſe that's imperfect, which ſhould racher be</l>
@@ -5914,7 +5915,7 @@ If poor <hi>Mephiboſheth</hi> ſurvive, extend</l>
                   <l>
                      <hi>Friendſhip</hi> ſhould have in thee the ſame Effects;</l>
                   <l>
-                     <pb n="166" facs="tcp:003191_0082_0FF01737F19EBE58"/>
+                     <pb n="166" facs="unknown:003191_0082_0FF01737F19EBE58"/>
 Yet hates <hi>
                         <g ref="char:V">Ʋ</g>phraiding,</hi> or a ſlanderous <hi>Tongue:</hi>
                   </l>
@@ -5948,7 +5949,7 @@ Yet hates <hi>
                   <l>Methinks ahundance of ſuch outward Store</l>
                   <l>Should ne'r abridge our Time, but gain us more.</l>
                   <l>
-                     <pb n="167" facs="tcp:003191_0082_0FF01737F19EBE58"/>
+                     <pb n="167" facs="unknown:003191_0082_0FF01737F19EBE58"/>
 Not that Wealth can add Number to our Days;</l>
                   <l>But Time (wherein the Indigent may raiſe</l>
                   <l>Some Stipend, to procure their daily Food)</l>
@@ -5983,7 +5984,7 @@ Not that Wealth can add Number to our Days;</l>
                   <l>From that fair Boſom; where, if yet it dwell,</l>
                   <l>'Twill by its influencing Power diſpel</l>
                   <l>
-                     <pb n="168" facs="tcp:003191_0083_0FF0173B1EA42590"/>
+                     <pb n="168" facs="unknown:003191_0083_0FF0173B1EA42590"/>
 Whate'er would ſtop its Current: For we ſee</l>
                   <l>That ſtanding Pools oft times corrupted be,</l>
                   <l>When ſmaller Brooks, whoſe Streams do gently glide</l>
@@ -6013,7 +6014,7 @@ Whate'er would ſtop its Current: For we ſee</l>
                </lg>
             </div>
             <div type="poem">
-               <pb n="169" facs="tcp:003191_0083_0FF0173B1EA42590"/>
+               <pb n="169" facs="unknown:003191_0083_0FF0173B1EA42590"/>
                <head>Upon parting with a Friend.</head>
                <lg n="1">
                   <head>1.</head>
@@ -6046,7 +6047,7 @@ Whate'er would ſtop its Current: For we ſee</l>
                   <l>But I might ſuffer Loſſes other ways.</l>
                </lg>
                <lg n="4">
-                  <pb n="170" facs="tcp:003191_0084_0FEFD8BF5B94DA20"/>
+                  <pb n="170" facs="unknown:003191_0084_0FEFD8BF5B94DA20"/>
                   <head>4.</head>
                   <l>Whilſt ſhe, obliging ſhe, might never want,</l>
                   <l>What was ſo much deſir'd, <hi>Society;</hi>
@@ -6092,7 +6093,7 @@ Whate'er would ſtop its Current: For we ſee</l>
                </lg>
             </div>
             <div type="poem">
-               <pb n="171" facs="tcp:003191_0084_0FEFD8BF5B94DA20"/>
+               <pb n="171" facs="unknown:003191_0084_0FEFD8BF5B94DA20"/>
                <head>A Letter of Invitation to a Friend.</head>
                <l>IF to the Country I my Friend invite,</l>
                <l>'Tis but to do languiſhing Friendſhip right</l>
@@ -6124,7 +6125,7 @@ Whate'er would ſtop its Current: For we ſee</l>
                   <hi>One half had not been told;</hi> So may it be</l>
                <l>Affirm'd by many that have heard of thee:</l>
                <l>
-                  <pb n="172" facs="tcp:003191_0085_0FF0173FCD0DA8D8"/>
+                  <pb n="172" facs="unknown:003191_0085_0FF0173FCD0DA8D8"/>
 Why then ſhould this mean Pen pretend to tell</l>
                <l>Half of thoſe Vertues that in thee excel?</l>
             </div>
@@ -6158,7 +6159,7 @@ Why then ſhould this mean Pen pretend to tell</l>
                   <l>And Tokens of his Power diſperſe</l>
                   <l>Therein, who now and ever took</l>
                   <l>
-                     <pb n="173" facs="tcp:003191_0085_0FF0173FCD0DA8D8"/>
+                     <pb n="173" facs="unknown:003191_0085_0FF0173FCD0DA8D8"/>
 Care of the Helpleſs, cannot paſs them by,</l>
                   <l>Since the young Ravens wants he doth ſupply.</l>
                </lg>
@@ -6194,7 +6195,7 @@ Care of the Helpleſs, cannot paſs them by,</l>
                </lg>
             </div>
             <div type="poem">
-               <pb n="174" facs="tcp:003191_0086_0FF0174228D96D90"/>
+               <pb n="174" facs="unknown:003191_0086_0FF0174228D96D90"/>
                <head>Another Meditation.</head>
                <l>OH! if my Mind,</l>
                <l>Should be inclin'd</l>
@@ -6224,7 +6225,7 @@ Care of the Helpleſs, cannot paſs them by,</l>
                   <l>Within the Conclave of the Breaſt?</l>
                </lg>
                <lg>
-                  <pb n="175" facs="tcp:003191_0086_0FF0174228D96D90"/>
+                  <pb n="175" facs="unknown:003191_0086_0FF0174228D96D90"/>
                   <l>Why, both in former and more modern Days,</l>
                   <l>Should Vertue, as an heinous Crime,</l>
                   <l>Be proſecuted! Leſt its conquering Rays,</l>
@@ -6261,7 +6262,7 @@ Care of the Helpleſs, cannot paſs them by,</l>
                   <l>The progreſs of ſuch Tyranny;</l>
                </lg>
                <lg>
-                  <pb n="176" facs="tcp:003191_0087_0FF01743E8330FB8"/>
+                  <pb n="176" facs="unknown:003191_0087_0FF01743E8330FB8"/>
                   <l>And like the wiſe <hi>Gamaliel,</hi> intercede</l>
                   <l>With ſober Caution, to beware,</l>
                   <l>Leſt ſome thereby the Prince of Heav'n invade,</l>
@@ -6300,7 +6301,7 @@ Care of the Helpleſs, cannot paſs them by,</l>
                </l>
             </div>
             <div type="poem">
-               <pb n="177" facs="tcp:003191_0087_0FF01743E8330FB8"/>
+               <pb n="177" facs="unknown:003191_0087_0FF01743E8330FB8"/>
                <head>Another Letter to Couſin <hi>F. R.</hi>
                </head>
                <l>NO doubt, ere this, <hi>Rejoycing Friends</hi> are come,</l>
@@ -6329,7 +6330,7 @@ Care of the Helpleſs, cannot paſs them by,</l>
                <l>My Sentiments thereon to thee, my Friend.</l>
             </div>
             <div type="poem">
-               <pb n="178" facs="tcp:003191_0088_0FF01746B8792358"/>
+               <pb n="178" facs="unknown:003191_0088_0FF01746B8792358"/>
                <head>A Third Letter to Counſin <hi>F. R.</hi>
                </head>
                <l>CAN I be ſilent, tho' I ſeem t' intrude</l>
@@ -6364,7 +6365,7 @@ Care of the Helpleſs, cannot paſs them by,</l>
                <l>Its <hi>Grandure, Pomp,</hi> and all its <hi>ſwelling Pride,</hi>
                </l>
                <l>
-                  <pb n="179" facs="tcp:003191_0088_0FF01746B8792358"/>
+                  <pb n="179" facs="unknown:003191_0088_0FF01746B8792358"/>
 To treaſure up a far more Noble Prize,</l>
                <l>Than can be well obſerv'd by common Eyes.</l>
                <l>Which dote on Toys, and can admire the Blaze</l>
@@ -6389,7 +6390,7 @@ To treaſure up a far more Noble Prize,</l>
             </div>
          </div>
          <div type="poem">
-            <pb n="180" facs="tcp:003191_0089_0FF01749365F6730"/>
+            <pb n="180" facs="unknown:003191_0089_0FF01749365F6730"/>
             <head>UPON SILENCE</head>
             <byline>Written by another Hand.</byline>
             <lg n="1">
@@ -6411,7 +6412,7 @@ To treaſure up a far more Noble Prize,</l>
                <l>To magnify the great Solemnity.</l>
             </lg>
             <lg n="3">
-               <pb n="181" facs="tcp:003191_0089_0FF01749365F6730"/>
+               <pb n="181" facs="unknown:003191_0089_0FF01749365F6730"/>
                <head>3.</head>
                <l>When <hi>Horeb</hi>'s Mount was topt with Fire and Smoak,</l>
                <l>And with a Dreadful Trembling ſhook;</l>
@@ -6439,7 +6440,7 @@ To treaſure up a far more Noble Prize,</l>
                <l>Where more enjoy'd than Mortals can relate.</l>
             </lg>
             <lg n="6">
-               <pb n="182" facs="tcp:003191_0090_0FF0174C5A096F90"/>
+               <pb n="182" facs="unknown:003191_0090_0FF0174C5A096F90"/>
                <head>6.</head>
                <l>Tho' ſome confeſs the Pleaſure of thy Loves,</l>
                <l>Thy nightly Walks and ſilent Groves,</l>
